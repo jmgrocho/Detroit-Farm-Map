@@ -1,0 +1,28 @@
+{
+  "name": "detroit-farm-map",
+  "version": "0.0.0",
+  "description": "a map of farm and gardens in the detroit metro area",
+  "main": "grunt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "map",
+    "detroit",
+    "uban",
+    "farm",
+    "community",
+    "garden",
+    "agriculter"
+  ],
+  "author": "null_radix & feralfrond",
+  "license": "GPL",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-jade": "~0.8.0",
+    "grunt-contrib-less": "~0.7.0",
+    "grunt-contrib-watch": "~0.5.1"
+  }
+}

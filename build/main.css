@@ -1,0 +1,62 @@
+html,
+body,
+#map {
+  height: 100%;
+  clear: both;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  color: #d1e751;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+}
+a {
+  color: #4dbce9 !important;
+}
+legend {
+  font-size: 43px;
+}
+.hidden {
+  display: none !important;
+  visibility: hidden !important;
+}
+.overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+.closeButton {
+  padding: 4px 4px 0 0;
+  text-align: center;
+  width: 18px;
+  height: 14px;
+  font: 16px/14px Tahoma, Verdana, sans-serif;
+  color: #c3c3c3;
+  text-decoration: none;
+  font-weight: bold;
+  float: right;
+  background: transparent;
+}
+.panel {
+  padding-top: 30px;
+}
+#topPanelWrapper {
+  position: absolute;
+  box-shadow: 0 3px 14px rgba(0, 0, 0, 0.4);
+  -webkit-border-radius: 12px;
+  border-radius: 12px;
+  width: 17%;
+  top: 20px;
+  left: 38px;
+  height: 80px;
+  padding: 28px;
+  overflow: hidden;
+  -webkit-transition: all 0.3s ease-in;
+  -moz-transition: all 0.3s ease-in;
+  -o-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+}
+.leaflet-popup-content-wrapper {
+  background: rgba(0, 0, 0, 0.7) !important;
+  -webkit-border-radius: 0px;
+  border-radius: 0px;
+}
