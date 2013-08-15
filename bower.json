@@ -1,0 +1,16 @@
+{
+  "name": "d-townmap",
+  "version": "0.0.0",
+  "main": "main.coffee",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet": "git://github.com/Leaflet/Leaflet.git#~0.6.4",
+    "jquery": "~2.0.3"
+  }
+}
