@@ -1,5 +1,6 @@
 window.onload = function() {
   var map;
+  L.Icon.Default.imagePath = "bower_components/leaflet/dist/images";
   map = L.map('map', {
     zoomControl: false
   }).setView([42.33, -83.05], 11);
@@ -12,21 +13,24 @@ window.onload = function() {
   }));
   $("#topPanelWrapper").on('transitionend webkitTransitionEnd oTransitionEnd otransitionend', function() {
     if (!$(".panelWrapper").hasClass("open")) {
-      $(".panelWrapper").addClass("hidden");
+      return $(".panelWrapper").addClass("hidden");
     }
-    return console.log("test");
   });
   $(".closeButton").click(function() {
     $('#topPanelWrapper').height(80);
     return $('#aboutWrapper').removeClass("open");
   });
   $.getJSON('data/about.json', function(data) {
-    $('#about').text(data);
+    $('#about').html(data);
     return $("#aboutLink").click(function() {
-      $('#aboutWrapper').removeClass("hidden").addClass("open");
-      return $('#topPanelWrapper').height(function(index, height) {
-        return height + $("#about").height();
-      });
+      if (!$(".panelWrapper").hasClass("open")) {
+        $('#aboutWrapper').removeClass("hidden").addClass("open");
+        return $('#topPanelWrapper').height(function(index, height) {
+          return height + $("#about").height() + 20;
+        });
+      } else {
+        return $('.closeButton').trigger('click');
+      }
     });
   });
   return $.getJSON('data/map.geojson', function(data) {

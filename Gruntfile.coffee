@@ -14,7 +14,12 @@ module.exports = (grunt)->
         options:
           mangle: false
         files:
-          "build/main.min.js": ["bower_components/leaflet/dist/leaflet.js", "build/main.js"]
+          "build/main.min.js": [
+            "bower_components/jquery/jquery.js",
+            "bower_components/leaflet/dist/leaflet.js",
+            "build/main.js",
+            "src/runtime.js",
+            "build/tmp.js"]
 
     less:
       devoplment:
@@ -69,4 +74,12 @@ module.exports = (grunt)->
     'less:devoplment',
     'jade:devoplment',
     'jade:client'
+    ]
+
+  grunt.registerTask 'production', [
+    'coffee',
+    'less:production',
+    'jade:production',
+    'jade:client',
+    'uglify'
     ]
