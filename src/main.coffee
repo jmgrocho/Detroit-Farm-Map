@@ -19,13 +19,6 @@ window.onload = ()->
     $('#topPanelWrapper').height 80
     $('#aboutWrapper').removeClass("open")
 
-  $.getJSON 'data/about.json', (data)->
-    $('#about').text data
-    $("#aboutLink").click ()->
-      $('#aboutWrapper').removeClass("hidden").addClass("open")
-      $('#topPanelWrapper').height (index, height)->
-        return height + $("#about").height()
-
   #load about verbage
   $.getJSON 'data/about.json', (data)->
     $('#about').html data
