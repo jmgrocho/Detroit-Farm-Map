@@ -2,21 +2,17 @@ doctype 5
 html
   head
     title Detroit Farm Map
-    script(src="bower_components/leaflet/dist/leaflet.js", type="text/javascript")
-    script(src="bower_components/jquery/jquery.min.js", type="text/javascript")
-    script(src="build/main.js", type="text/javascript")
-    script(src="build/tmp.js", type="text/javascript")
-    script(src="src/runtime.js", type="text/javascript")
     if debug
       script(src="bower_components/leaflet/dist/leaflet.js", type="text/javascript")
       script(src="bower_components/jquery/jquery.min.js", type="text/javascript")
       script(src="build/main.js", type="text/javascript")
       script(src="build/tmp.js", type="text/javascript")
       script(src="src/runtime.js", type="text/javascript")
+      link(rel="stylesheet", href="build/main.css")
+      link(rel="stylesheet", href="bower_components/leaflet/dist/leaflet.css")
     else
       script(src="build/main.min.js", type="text/javascript")
-    link(rel="stylesheet", href="build/main.css")
-    link(rel="stylesheet", href="bower_components/leaflet/dist/leaflet.css")
+      link(rel="stylesheet", href="build/main.min.css")
   body
     #map
     #topPanelWrapper.overlay

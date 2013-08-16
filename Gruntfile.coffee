@@ -17,10 +17,18 @@ module.exports = (grunt)->
           "build/main.min.js": [
             "bower_components/jquery/jquery.js",
             "bower_components/leaflet/dist/leaflet.js",
+            "build/tmp.js",
             "build/main.js",
             "src/runtime.js",
             "build/tmp.js"]
-            
+
+    cssmin:
+      combine:
+        files:
+          "build/main.min.css": [
+            "build/main.css",
+            "bower_components/leaflet/dist/leaflet.css"]
+
     less:
       devoplment:
         files:
@@ -64,6 +72,7 @@ module.exports = (grunt)->
   grunt.loadNpmTasks('grunt-contrib-jade')
   grunt.loadNpmTasks('grunt-contrib-less')
   grunt.loadNpmTasks('grunt-contrib-uglify')
+  grunt.loadNpmTasks('grunt-contrib-cssmin')
   grunt.loadNpmTasks('grunt-contrib-watch')
 
   grunt.registerTask 'default', ['build']
@@ -81,5 +90,6 @@ module.exports = (grunt)->
     'less:production',
     'jade:production',
     'jade:client',
-    'uglify'
+    'uglify',
+    'cssmin'
     ]
