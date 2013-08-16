@@ -1,5 +1,6 @@
 window.onload = ()->
 
+  #set image path
   L.Icon.Default.imagePath = "bower_components/leaflet/dist/images"
   map = L.map('map', {zoomControl: false}).setView([42.33, -83.05], 11)
   L.tileLayer('http://{s}.tile.cloudmade.com/BC9A493B41014CAABB98F0471D759707/997/256/{z}/{x}/{y}.png', {
@@ -10,6 +11,11 @@ window.onload = ()->
   #add zoom control
   map.addControl new L.Control.Zoom({position:'topright'})
   
+  
+  aboutTmp = window.JST["src/templates/about"]()
+  $("#about").html(aboutTmp)
+
+  
   #bind events
   $("#topPanelWrapper").on 'transitionend webkitTransitionEnd oTransitionEnd otransitionend', ()->
     if not $(".panelWrapper").hasClass("open")
@@ -17,24 +23,39 @@ window.onload = ()->
 
   $(".closeButton").click ()->
     $('#topPanelWrapper').height 80
-    $('#aboutWrapper').removeClass("open")
+    $('.panelWrapper').removeClass("open")
 
-  #load about verbage
-  $.getJSON 'data/about.json', (data)->
-    $('#about').html data
-    $("#aboutLink").click ()->
-      if not $(".panelWrapper").hasClass("open")
-        $('#aboutWrapper').removeClass("hidden").addClass("open")
+  $("nav a").click (event)->
+      el = $(event.currentTarget).data('el')
+      
+      if not $('#'+el+'Wrapper').hasClass("open")
+        $('.panelWrapper').addClass('hidden').removeClass('open')
+        $('#'+el+'Wrapper').removeClass("hidden").addClass("open")
         $('#topPanelWrapper').height (index, height)->
-          return height + $("#about").height() + 20
+          fullHeight = $(window).height() - 96
+          if fullHeight < $("#"+el).height() + 110
+            $('#'+el+'Wrapper').height(fullHeight - 66).css("overflow-y", "scroll")
+            return fullHeight
+          else
+            return $("#"+el).height() + 110
+
       else
         $('.closeButton').trigger('click')
 
+  markerArray = []
   #load farm data
   $.getJSON 'data/map.geojson', (data)->
     gjLayer = L.geoJson data,
       onEachFeature: (feature, layer)->
         popupTmp = window.JST["src/templates/popup"](feature.properties)
-        layer.bindPopup(popupTmp)
+        markerArray.push({maker: layer.bindPopup(popupTmp), data:feature.properties})
+        markerArray.sort (a,b)->
+          return a.data.Name.localeCompare(b.data.Name)
+
+    listTmp = window.JST["src/templates/list"]({"markerArray": markerArray})
+    $("#list").html(listTmp)
+    $(".listLink").click (event)->
+      index = $(event.currentTarget).data('index')
+      markerArray[index].maker.openPopup()
 
     gjLayer.addTo(map)

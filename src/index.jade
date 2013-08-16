@@ -18,8 +18,14 @@ html
     #topPanelWrapper.overlay
       h1 Detroit Farm Map
       nav
-        a(href="#")#aboutLink about
+        a(href="#", data-el="list") Farm List
+        &nbsp;
+        a(href="#", data-el="about") About
 
       #aboutWrapper.hidden.panelWrapper
         a(href="#").closeButton x
         #about.panel
+
+      #listWrapper.hidden.panelWrapper
+        a(href="#").closeButton x
+        #list.panel
