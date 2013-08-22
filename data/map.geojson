@@ -65,7 +65,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Hamtown Farms",
-        "Description": "Hamtown Farms is an orchard of Pawpaw and Cherry trees, along with a small community garden.",
+        "Description": "Hamtown Farms is an orchard of mainly Pawpaw and Cherry trees, along with a community garden.",
         "Link": "https://www.facebook.com/hamtownfarms"
       },
       "geometry": {
