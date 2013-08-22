@@ -364,7 +364,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Goodson St. Community Garden",
-        "Description": "The Goodson St. Community Garden is a large garden maintained by the neighborhood. ",
+        "Description": "",
         "Link": ""
       },
       "geometry": {
@@ -417,6 +417,20 @@
         "coordinates": [
           -83.07542681694031,
           42.34691444950392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Grayling St. Community Garden",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05568844079971,
+          42.387179267004285
         ]
       }
     }
