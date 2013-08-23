@@ -433,6 +433,21 @@
           42.387179267004285
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rising Pheasant Farms",
+        "Description": "A family-owned farm on Detroit's Eastside. We specialize in naturally-grown microgreens and a wide variety of heirloom vegetable crops all delivered to local markets and restaurants by bicycle!",
+        "Link": "http://risingpheasantfarms.blogspot.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03276360034943,
+          42.370860838080006
+        ]
+      }
     }
   ]
 }
