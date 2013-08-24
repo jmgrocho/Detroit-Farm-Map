@@ -478,6 +478,21 @@
           42.32453549765748
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Watson Street Garden",
+        "Description": "Maintained by a few families and a preschool the Watson Street Garden has 14 planter boxes and 6 apple trees. ",
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05315643548965,
+          42.3456258981124
+        ]
+      }
     }
   ]
 }
