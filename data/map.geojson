@@ -463,6 +463,21 @@
           42.38994679742409
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cadillac Urban Gardens on Merritt",
+        "Description": "What once began as an empty parking lot filled with scrap metal, growing weeds, and empty vibes has now become a community urban garden in the rich and vibrant Southwest Detroit. This lot that is now teeming with life used to be a GM executive parking lot for the old Cadillac Plant on Clark Street.",
+        "Link": "https://www.es-la.prod.facebook.com/CadillacUrbanGardensOnMerritt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.10344249010086,
+          42.32453549765748
+        ]
+      }
     }
   ]
 }
