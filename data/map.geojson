@@ -448,6 +448,21 @@
           42.370860838080006
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hewitt St. Community Garden",
+        "Description": "The Hewitt St. Community Garden is a neighborhood collaboration to clean up the area and provide a beautiful social space out of an abandoned lot.",
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05911362171173,
+          42.38994679742409
+        ]
+      }
     }
   ]
 }
