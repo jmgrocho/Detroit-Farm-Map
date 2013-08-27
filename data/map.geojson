@@ -493,6 +493,21 @@
           42.3456258981124
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The More Food Community Garden",
+        "Description": "This garden is part of the greening of Detroit's open space reclamation project. It is  maintained by the Holbrook King block club.",
+        "Link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.07622075080872,
+          42.38202622423863
+        ]
+      }
     }
   ]
 }
