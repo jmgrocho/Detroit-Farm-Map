@@ -1,7 +1,6 @@
 this["JST"] = this["JST"] || {};
 
-this["JST"]["src/templates/about"] = function anonymous(locals
-/**/) {
+this["JST"]["src/templates/about"] = function anonymous(locals) {
 jade.debug = [{ lineno: 1, filename: "src/templates/about.jade" }];
 try {
 var buf = [];
@@ -77,8 +76,7 @@ jade.debug.shift();;return buf.join("");
 }
 };
 
-this["JST"]["src/templates/list"] = function anonymous(locals
-/**/) {
+this["JST"]["src/templates/list"] = function anonymous(locals) {
 jade.debug = [{ lineno: 1, filename: "src/templates/list.jade" }];
 try {
 var buf = [];
@@ -145,8 +143,7 @@ jade.debug.shift();;return buf.join("");
 }
 };
 
-this["JST"]["src/templates/popup"] = function anonymous(locals
-/**/) {
+this["JST"]["src/templates/popup"] = function anonymous(locals) {
 jade.debug = [{ lineno: 1, filename: "src/templates/popup.jade" }];
 try {
 var buf = [];
