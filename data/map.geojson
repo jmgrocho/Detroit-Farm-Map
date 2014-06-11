@@ -123,6 +123,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "Pingree Farms",
+        "Description": "Pingree Farms is large market garden in highland park. They also have cattle and emus ",
+        "Link": "http://www.pingreefarms.com/blog"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0961549282074,
+          42.42987519037452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name": "Michigan Urban Farming Initiative",
         "Description": "﻿​Using agriculture as a platform to promote education, community, and sustainability, we seek to reduce socioeconomic disparity.",
         "Link": "http://www.miufi.org/"
@@ -185,7 +200,7 @@
       "properties": {
         "Name": "Lafayette Greens",
         "Description": "Built on the former site of the historic Lafayette Building, Lafayette Greens is a nearly half-acre garden space in the downtown district of Detroit. With 35 raised beds, fruit trees, a children's garden and more",
-        "Link": "http://www.compuware.com/en_us/about/lafayette-greens-home.html"
+        "Link": "https://www.facebook.com/pages/Lafayette-Greens/159224250814168?id=159224250814168&sk=info"
       },
       "geometry": {
         "type": "Point",
@@ -379,7 +394,7 @@
       "type": "Feature",
       "properties": {
         "Name": "The Penrose Art House and Art Garden",
-        "Description": "The Penro se Art House and Art Garden are fun places for kids to learn about art, nature and growing things in the heart of Detroit.",
+        "Description": "The Penrose Art House and Art Garden are fun places for kids to learn about art, nature and growing things in the heart of Detroit.",
         "Link": "https://www.facebook.com/pages/Penrose-Art-House-Art-Garden/156361017717484"
       },
       "geometry": {
@@ -393,30 +408,28 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Oakland Avenue Community Garden",
-        "Description": "This garden is maintained by the Northend Christian Community Development. They are growing and selling fresh produce, fruits and herbs at Eastern Market, Wayne State University Market, Bushnell Market and Windmill Market.  The profit from the produce is used to fund additional training and pay stipends to youth who work in the gardens. ",
-        "Link": "http://northend-cdc.org/services.html"
+        "Name": "Brother Nature Produce",
+        "Link": "https://www.facebook.com/pages/Brother-Nature-Produce/152167309159"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.07335615158081,
-          42.38751803354487
+          -83.07453632354736,
+          42.33765016859686
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Name": "Terra Farms",
-        "Description": "This is 6 lot urban farm sells CSA style shares to local resturants and \"food for thirty thousand.\"",
-        "Link": "http://tendingterra.com/"
+        "Name": "Rising Pheasant Farms",
+        "Link": "http://risingpheasantfarms.blogspot.com/"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.05667281150818,
-          42.38701087359921
+          -83.03196430206299,
+          42.37103720122325
         ]
       }
     }
