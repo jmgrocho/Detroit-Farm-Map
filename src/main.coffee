@@ -3,7 +3,7 @@ window.onload = ()->
   #set image path
   L.Icon.Default.imagePath = "bower_components/leaflet/dist/images"
   map = L.map('map', {zoomControl: false}).setView([42.33, -83.05], 11)
-  L.tileLayer('http://{s}.tile.cloudmade.com/BC9A493B41014CAABB98F0471D759707/997/256/{z}/{x}/{y}.png', {
+  L.tileLayer('https://{s}.tiles.mapbox.com/v3/mjbecze.ig29pil0/{z}/{x}/{y}.png', {
      maxZoom: 18,
      attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery <a href="http://cloudmade.com">CloudMade</a>'
   }).addTo(map)
