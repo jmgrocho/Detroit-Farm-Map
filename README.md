@@ -1,7 +1,7 @@
 Detroit Farm Map
 =================
 
-A map of farms and gardens in the [Detroit Metro Area](http://detroit.farmmap.us/)
+A map of farms and gardens in the [Detroit Metro Area](http://wanderer.github.io/Detroit-Farm-Map)
 
 It uses the following
 * jade for templating
