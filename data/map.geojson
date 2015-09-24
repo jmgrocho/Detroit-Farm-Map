@@ -1,1 +1,3630 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Name":"Food Field ","Description":"Food Field is a fully functional CSA that also sells to markets. They farm about four acres.","Link":"http://www.foodfielddetroit.com/"},"geometry":{"type":"Point","coordinates":[-83.10369729995728,42.38547748227963]}},{"type":"Feature","properties":{"Link":"http://www.cskdetroit.org/programs/earthworks_urban_farm/","Description":"Earthworks is an extension of the Capuchin soup kitchen that seeks to to build a just food system through education, inspiration, and community development","Name":"Earthworks Urban Farm"},"geometry":{"type":"Point","coordinates":[-83.01286697387695,42.35077003398512]}},{"type":"Feature","properties":{"Name":"Singing Tree Farms","Description":"Singing Tree farm is also a part of the “City commons CSA” They grow vegetables, raise chickens, and also sell art through the CSA","Link":"https://www.facebook.com/SingingTreeGarden"},"geometry":{"type":"Point","coordinates":[-83.10106873512268,42.42107261165155]}},{"type":"Feature","properties":{"Name":"D-Town Farms","Description":"D-Town Farms is a 7 acre farm located in Rouge River Park. D-Town is a part of Detroit Black Community Food Security Network.","Link":"http://detroitblackfoodsecurity.org/"},"geometry":{"type":"Point","coordinates":[-83.25924396514893,42.365615294394104]}},{"type":"Feature","properties":{"Name":"Hamtown Farms","Description":"Hamtown Farms is an orchard of Pawpaw and Cherry trees, along with a small community garden.","Link":"https://www.facebook.com/hamtownfarms"},"geometry":{"type":"Point","coordinates":[-83.06029379367828,42.39026772004295]}},{"type":"Feature","properties":{"Name":"Burnside CSA","Description":"Burnside is a fully functional CSA on about an acre of vacant property North of Hamtramck","Link":""},"geometry":{"type":"Point","coordinates":[-83.06077122688293,42.409401250859105]}},{"type":"Feature","properties":{"Name":"Brightmoor Youth Garden","Description":"Brightmoor Youth Garden seeks to use market gardening as a vehicle to provide youth, ages 9-18, with the opportunity to obtain and build skills, knowledge and experience necessary for a healthy, prosperous, purposeful, and sustainable life.","Link":"https://www.facebook.com/pages/Brightmoor-Youth-Garden/116987958316594?id=116987958316594&sk=info"},"geometry":{"type":"Point","coordinates":[-83.26610505580902,42.39779704466913]}},{"type":"Feature","properties":{"Name":"St Aubin Community Garden","Description":"A three lot community garden in the 3c neighborhood of Hamtramck"},"geometry":{"type":"Point","coordinates":[-83.06906998157501,42.40121178390728]}},{"type":"Feature","properties":{"Name":"Pingree Farms","Description":"Pingree Farms is large market garden in highland park. They also have cattle and emus ","Link":"http://www.pingreefarms.com/blog"},"geometry":{"type":"Point","coordinates":[-83.0961549282074,42.42987519037452]}},{"type":"Feature","properties":{"Name":"Michigan Urban Farming Initiative","Description":"﻿​Using agriculture as a platform to promote education, community, and sustainability, we seek to reduce socioeconomic disparity.","Link":"http://www.miufi.org/"},"geometry":{"type":"Point","coordinates":[-83.07092070579529,42.372876104271825]}},{"type":"Feature","properties":{"Name":"Russel Street Deli Garden","Description":"This garden is maintained by the Russel Street Deli. All the produce goes on the menu.","Link":"http://russellstreetdeli.com/"},"geometry":{"type":"Point","coordinates":[-83.06613564491272,42.397014639153284]}},{"type":"Feature","properties":{"Name":"Detroit Market Garden","Description":"This two acre urban farm is a project of \"The Greening of Detroit.\"","Link":"http://greeningofdetroit.com/"},"geometry":{"type":"Point","coordinates":[-83.03924918174744,42.35113080151281]}},{"type":"Feature","properties":{"Name":"Catherine Ferguson Academy Urban Farm","Description":"An urban farm that is part of the academy. They have ducks. rabbits. chickens and vegetable gardens.","Link":"http://catherinefergusonacademy.org/"},"geometry":{"type":"Point","coordinates":[-83.08986783027649,42.340905609676895]}},{"type":"Feature","properties":{"Name":"Lafayette Greens","Description":"Built on the former site of the historic Lafayette Building, Lafayette Greens is a nearly half-acre garden space in the downtown district of Detroit. With 35 raised beds, fruit trees, a children's garden and more","Link":"https://www.facebook.com/pages/Lafayette-Greens/159224250814168?id=159224250814168&sk=info"},"geometry":{"type":"Point","coordinates":[-83.0493637919426,42.331398535447725]}},{"type":"Feature","properties":{"Name":"North Cass community Garden","Description":"A large community garden that rents plots to neighbors and restaurants. ","Link":""},"geometry":{"type":"Point","coordinates":[-83.0659532546997,42.34943795132968]}},{"type":"Feature","properties":{"Name":"Farnsworth Community Garden","Description":"A vibrant garden maintained by the residents of the neighborhood.","Link":""},"geometry":{"type":"Point","coordinates":[-83.03305864334106,42.3704982021958]}},{"type":"Feature","properties":{"Name":"Hamtramck Zen Garden","Description":"This is a Zen garden for meditation and relaxation. It is maintained by the Hamtramck Zen center.","Link":"http://www.detroitzencenter.org/home"},"geometry":{"type":"Point","coordinates":[-83.06042522192001,42.40197829205995]}},{"type":"Feature","properties":{"Name":"Spirit of Hope Urban Farm","Description":"Spirit of Hope is an urban farm that helps stock the churches Food Pantry, their volunteers, and neighbors.","Link":"http://www.motherearthliving.com/vegetable-gardening/greening-detroit-spirit-of-hope-urban-farm.aspx#axzz2byn22JZx"},"geometry":{"type":"Point","coordinates":[-83.0737692117691,42.341163341417435]}},{"type":"Feature","properties":{"Name":"Freedom Freedom Growers","Description":"Feedom-Freedom Growers is a community group and resource committed to growing community relationships through the cultivation of food, hearts and minds.","Link":"https://www.facebook.com/FeedomFreedom/info"},"geometry":{"type":"Point","coordinates":[-82.94020593166351,42.37302868324805]}},{"type":"Feature","properties":{"Name":"Georgia Street Community Garden","Description":"This community garden is a part of the Georgia Street Community Collective that is seeking to rebuild and sustain their neighborhood.","Link":"http://www.georgiastreetcc.com/about.html"},"geometry":{"type":"Point","coordinates":[-83.0089670419693,42.39566769034995]}},{"type":"Feature","properties":{"Name":"Chiwara Permaculture ","Description":"Chiwara has established the first urban permaculture research and education facility in the city, known as Chiwara HP.","Link":"http://www.chiwarapermaculture.com/#!home/mainPage"},"geometry":{"type":"Point","coordinates":[-83.09883445501328,42.41518175685063]}},{"type":"Feature","properties":{"Name":"Community Food Forest","Description":"This is a permaculture food forest experiment that is open to the community.","Link":""},"geometry":{"type":"Point","coordinates":[-83.0776396393776,42.33542756907825]}},{"type":"Feature","properties":{"Name":"CDC Farm and Fishery","Description":"The CDC Farm and Fishery is an indoor self-sustaining ecosystem that will provide fresh fish and vegetables to both individuals and restaurants in North Central Detroit, a neighborhood severely lacking in fresh food products.","Link":"http://centraldetroitchristian.org/what-we-do/economic-development-businesses/cdc-farm-fishery/"},"geometry":{"type":"Point","coordinates":[-83.08141082525253,42.377112510053074]}},{"type":"Feature","properties":{"Name":"The Haven","Description":"The Haven is a community Garden maintained by the residents of West Hamtramck","Link":""},"geometry":{"type":"Point","coordinates":[-83.07274729013443,42.399645067571605]}},{"type":"Feature","properties":{"Name":"Goodson St. Community Garden","Description":"The Goodson St. Community Garden is a large garden maintained by the neighborhood. ","Link":""},"geometry":{"type":"Point","coordinates":[-83.05191457271576,42.39131169770533]}},{"type":"Feature","properties":{"Description":"Hope Takes Root is a community garden in the North Corktown neighborhood. While it has had it's ebbs and flows, it is one of the older community gardens in the city, originally started in a different site, and now active in it's current location since 2002.","Name":"Hopes Takes Root","Link":""},"geometry":{"type":"Point","coordinates":[-83.07746529579163,42.33511033169716]}},{"type":"Feature","properties":{"Name":"The Penrose Art House and Art Garden","Description":"The Penrose Art House and Art Garden are fun places for kids to learn about art, nature and growing things in the heart of Detroit.","Link":"https://www.facebook.com/pages/Penrose-Art-House-Art-Garden/156361017717484"},"geometry":{"type":"Point","coordinates":[-83.10713589191437,42.43665744091304]}},{"type":"Feature","properties":{"Name":"test","Description":"test","Link":"test"},"geometry":{"type":"Point","coordinates":[-83.11195850372313,42.381816210450246]}}]}
+{
+	"type":"FeatureCollection",
+	"crs":{
+		"type":"name",
+		"properties":{
+			"name":"urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+		
+	},
+	"features":[
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Art Center Community Garden",
+				"Description":"30 raised beds",
+				"Address":"203 E Palmer St, Detroit MI",
+				"URL":"<a href=\"https:\/\/www.facebook.com\/ArtCenterGarden\">facebook.com\/ArtCenterGarden<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.065488427137623,
+							42.362918558511687,
+							0.0
+						],
+						[
+							-83.06523643974495,
+							42.362545801963229,
+							0.0
+						],
+						[
+							-83.064737490804035,
+							42.362760591553929,
+							0.0
+						],
+						[
+							-83.065046386403353,
+							42.363133049071983,
+							0.0
+						],
+						[
+							-83.065466078880348,
+							42.362963101798002,
+							0.0
+						],
+						[
+							-83.065488427137623,
+							42.362918558511687,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Brightmoor Youth Garden",
+				"Description":"35 beds",
+				"Address":"152583 Grayfield St, Detroit MI",
+				"URL":"<a href=\"http:\/\/centraldetroitchristian.org\/cdc-spins-the-entire-food-web-in-detroits-north-end\/\">http:\/\/centraldetroitchristian.org\/cdc-spins-the-entire-food-web-in-detroits-north-end\/<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.267894362693937,
+							42.3990709815751,
+							0.0
+						],
+						[
+							-83.26791943923287,
+							42.399052154090462,
+							0.0
+						],
+						[
+							-83.267986494012959,
+							42.399090902202381,
+							0.0
+						],
+						[
+							-83.268069243767286,
+							42.399013148881089,
+							0.0
+						],
+						[
+							-83.268006760086593,
+							42.398973946008653,
+							0.0
+						],
+						[
+							-83.267962423262546,
+							42.398929905065707,
+							0.0
+						],
+						[
+							-83.267908574981121,
+							42.398892312544547,
+							0.0
+						],
+						[
+							-83.267925447843069,
+							42.398880378465712,
+							0.0
+						],
+						[
+							-83.267887282757599,
+							42.398858482051423,
+							0.0
+						],
+						[
+							-83.26775302023924,
+							42.39897939559161,
+							0.0
+						],
+						[
+							-83.267759183534295,
+							42.398995254384197,
+							0.0
+						],
+						[
+							-83.267894362693937,
+							42.3990709815751,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Brother Nature Produce",
+				"Description":"Open ground",
+				"Address":"2913 Rosa Parks Blvd, Detroit MI",
+				"URL":"<a href=\"http:\/\/facebook.com\/pages\/Brother-Nature-Produce\">facebook.com\/pages\/Brother-Nature-Produce<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.076455390988087,
+							42.336839860503467,
+							0.0
+						],
+						[
+							-83.07619708567772,
+							42.336912868220303,
+							0.0
+						],
+						[
+							-83.076176826017914,
+							42.336854837664383,
+							0.0
+						],
+						[
+							-83.075989427695447,
+							42.336849222313042,
+							0.0
+						],
+						[
+							-83.075918519826914,
+							42.33673316098929,
+							0.0
+						],
+						[
+							-83.075799496777904,
+							42.336770600211842,
+							0.0
+						],
+						[
+							-83.075857742372762,
+							42.336841734661668,
+							0.0
+						],
+						[
+							-83.075840015535348,
+							42.336854838347598,
+							0.0
+						],
+						[
+							-83.075710862615651,
+							42.336894149369478,
+							0.0
+						],
+						[
+							-83.075566515012341,
+							42.336957795602487,
+							0.0
+						],
+						[
+							-83.075612098420862,
+							42.337032673911978,
+							0.0
+						],
+						[
+							-83.075589306634086,
+							42.337057009274723,
+							0.0
+						],
+						[
+							-83.076032479243992,
+							42.336974643262501,
+							0.0
+						],
+						[
+							-83.076430077133324,
+							42.337820763459241,
+							0.0
+						],
+						[
+							-83.076928967247923,
+							42.33768410721779,
+							0.0
+						],
+						[
+							-83.076455390988087,
+							42.336839860503467,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Brother Nature Produce 2 E Greenhouses",
+				"Description":"2 eastmost greenhouses",
+				"Address":"2913 Rosa Parks Blvd, Detroit MI",
+				"URL":"<a href=\"http:\/\/facebook.com\/pages\/Brother-Nature-Produce\">facebook.com\/pages\/Brother-Nature-Produce<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.075802076066907,
+							42.33677378413973,
+							0.0
+						],
+						[
+							-83.075671188080037,
+							42.336826387272062,
+							0.0
+						],
+						[
+							-83.075711852279298,
+							42.336894959264669,
+							0.0
+						],
+						[
+							-83.075854177220975,
+							42.336850810150672,
+							0.0
+						],
+						[
+							-83.075802076066907,
+							42.33677378413973,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Brother Nature Produce W Greenhouse",
+				"Description":"Westmost greenhouse in garden",
+				"Address":"2913 Rosa Parks Blvd, Detroit MI",
+				"URL":"<a href=\"http:\/\/facebook.com\/pages\/Brother-Nature-Produce\">facebook.com\/pages\/Brother-Nature-Produce<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.076375189069907,
+							42.336862080760319,
+							0.0
+						],
+						[
+							-83.076345960973597,
+							42.336809477681683,
+							0.0
+						],
+						[
+							-83.076174408587505,
+							42.336859263559532,
+							0.0
+						],
+						[
+							-83.076197282724777,
+							42.33691186669067,
+							0.0
+						],
+						[
+							-83.076375189069907,
+							42.336862080760319,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Burnside Farm",
+				"Description":"Open ground",
+				"Address":"3328 Burnside St, Detroit MI",
+				"URL":"<a href=\"http:\/\/burnsidefarmdetroit.com\">burnsidefarmdetroit.com<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.060581189607817,
+							42.408971634966498,
+							0.0
+						],
+						[
+							-83.060315989958752,
+							42.409067029346097,
+							0.0
+						],
+						[
+							-83.060482589598365,
+							42.409309699839717,
+							0.0
+						],
+						[
+							-83.060721723276586,
+							42.409204263635338,
+							0.0
+						],
+						[
+							-83.060581189607817,
+							42.408971634966498,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Cadillac Urban Gardens on Merritt",
+				"Description":"26 raised beds",
+				"Address":"4650 Merritt St, Detroit MI",
+				"URL":"<a href=\"http:\/\/facebook.com\/CadillacUrbanGardensOnMerritt\">facebook.com\/CadillacUrbanGardensOnMerritt<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.102383139837343,
+							42.324170716092972,
+							0.0
+						],
+						[
+							-83.101211393837872,
+							42.324644492669897,
+							0.0
+						],
+						[
+							-83.10138546292167,
+							42.324882095136083,
+							0.0
+						],
+						[
+							-83.102553344306031,
+							42.32441111710034,
+							0.0
+						],
+						[
+							-83.102383139837343,
+							42.324170716092972,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"CDC Community Garden",
+				"Description":"25 raised beds",
+				"Address":"765 Taylor St, Detroit MI",
+				"URL":"<a href=\"http:\/\/centraldetroitchristian.org\/cdc-spins-the-entire-food-web-in-detroits-north-end\/\">http:\/\/centraldetroitchristian.org\/cdc-spins-the-entire-food-web-in-detroits-north-end\/<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.086761734797221,
+							42.379624890782367,
+							0.0
+						],
+						[
+							-83.08656444313992,
+							42.379697038454943,
+							0.0
+						],
+						[
+							-83.086732434300117,
+							42.379937290182092,
+							0.0
+						],
+						[
+							-83.086927773139379,
+							42.37986802820005,
+							0.0
+						],
+						[
+							-83.086761734797221,
+							42.379624890782367,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"CDC Farm and Fishery",
+				"Description":"Open ground",
+				"Address":"8500 2nd Ave, Detroit MI",
+				"URL":"<a href=\"http:\/\/facebook.com\/cdcfarmfishery\">facebook.com\/cdcfarmfishery<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.082192362180905,
+							42.376753286130537,
+							0.0
+						],
+						[
+							-83.08210823610159,
+							42.376787105587752,
+							0.0
+						],
+						[
+							-83.082148136584408,
+							42.376844656382481,
+							0.0
+						],
+						[
+							-83.082093397796569,
+							42.37686773640182,
+							0.0
+						],
+						[
+							-83.08215165521726,
+							42.376965892960193,
+							0.0
+						],
+						[
+							-83.082314307096809,
+							42.376918006031843,
+							0.0
+						],
+						[
+							-83.082192362180905,
+							42.376753286130537,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"CDC Farm and Fishery Greenhouse",
+				"Description":"Greenhouse",
+				"Address":"8500 2nd Ave, Detroit MI",
+				"URL":"<a href=\"http:\/\/facebook.com\/cdcfarmfishery\">facebook.com\/cdcfarmfishery<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.082313442092584,
+							42.376946450341762,
+							0.0
+						],
+						[
+							-83.082069111217507,
+							42.377032213091908,
+							0.0
+						],
+						[
+							-83.082124503069608,
+							42.377105083182542,
+							0.0
+						],
+						[
+							-83.082363522603558,
+							42.377014836047842,
+							0.0
+						],
+						[
+							-83.082313442092584,
+							42.376946450341762,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Colorado St Community Garden",
+				"Description":"Open ground",
+				"Address":"12615 John R St, Detroit MI"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.089358154390382,
+							42.399415786723068,
+							0.0
+						],
+						[
+							-83.0892658119662,
+							42.399450226761353,
+							0.0
+						],
+						[
+							-83.0893208442629,
+							42.399533571792603,
+							0.0
+						],
+						[
+							-83.089385204203495,
+							42.399509463745737,
+							0.0
+						],
+						[
+							-83.089401061005418,
+							42.399525306176663,
+							0.0
+						],
+						[
+							-83.089430909079411,
+							42.399512907739243,
+							0.0
+						],
+						[
+							-83.089358154390382,
+							42.399415786723068,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"D-Town Farm",
+				"Description":"Open Ground",
+				"Address":"14027 Outer Dr W, Detroit MI",
+				"URL":"<a href=\"http:\/\/dtownfarm.blogspot.com\">dtownfarm.blogspot.com<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.260259804499967,
+							42.365711461739657,
+							0.0
+						],
+						[
+							-83.258714286744322,
+							42.365716871653269,
+							0.0
+						],
+						[
+							-83.258732376430331,
+							42.365800028448007,
+							0.0
+						],
+						[
+							-83.260252797862108,
+							42.365798103941003,
+							0.0
+						],
+						[
+							-83.260259804499967,
+							42.365711461739657,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"D-Town Farm E Greenhouse",
+				"Description":"Greenhouse",
+				"Address":"14027 Outer Dr W, Detroit MI",
+				"URL":"<a href=\"http:\/\/dtownfarm.blogspot.com\">dtownfarm.blogspot.com<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.258740865870365,
+							42.366009167820657,
+							0.0
+						],
+						[
+							-83.258551510366644,
+							42.366009736620803,
+							0.0
+						],
+						[
+							-83.258551550848154,
+							42.366060806717712,
+							0.0
+						],
+						[
+							-83.258737470234635,
+							42.366063390647099,
+							0.0
+						],
+						[
+							-83.258740865870365,
+							42.366009167820657,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"D-Town Farm NW Greenhouse",
+				"Description":"Greenhouse",
+				"Address":"14027 Outer Dr W, Detroit MI",
+				"URL":"<a href=\"http:\/\/dtownfarm.blogspot.com\">dtownfarm.blogspot.com<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.260218178885324,
+							42.366118423464968,
+							0.0
+						],
+						[
+							-83.259859936404951,
+							42.366114421072368,
+							0.0
+						],
+						[
+							-83.259864748741606,
+							42.366200269344908,
+							0.0
+						],
+						[
+							-83.26023020644719,
+							42.366198734425559,
+							0.0
+						],
+						[
+							-83.260218178885324,
+							42.366118423464968,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"D-Town Farm SW Greenhouse",
+				"Description":"Greenhouse",
+				"Address":"14027 Outer Dr W, Detroit MI",
+				"URL":"<a href=\"http:\/\/dtownfarm.blogspot.com\">dtownfarm.blogspot.com<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.260242024726395,
+							42.365883786143122,
+							0.0
+						],
+						[
+							-83.259970721375439,
+							42.365888605500729,
+							0.0
+						],
+						[
+							-83.259978451378871,
+							42.365941052848768,
+							0.0
+						],
+						[
+							-83.260250974012294,
+							42.365937460195887,
+							0.0
+						],
+						[
+							-83.260242024726395,
+							42.365883786143122,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Detroit Market Garden",
+				"Description":"Detroit Market Garden",
+				"Address":"3091 Orleans St, Detroit MI",
+				"URL":"<a href=\"http:\/\/cfsem.org\/media\/introducing-the-detroit-market-garden\">cfsem.org\/media\/introducing-the-detroit-market-garden<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.039279245014868,
+							42.350564717509002,
+							0.0
+						],
+						[
+							-83.038804483880952,
+							42.350744142580702,
+							0.0
+						],
+						[
+							-83.038865689865176,
+							42.350851053676749,
+							0.0
+						],
+						[
+							-83.038853558916827,
+							42.350865845623439,
+							0.0
+						],
+						[
+							-83.038607407424863,
+							42.350963618503613,
+							0.0
+						],
+						[
+							-83.038582827280976,
+							42.351076358114852,
+							0.0
+						],
+						[
+							-83.038571883651969,
+							42.351084103064302,
+							0.0
+						],
+						[
+							-83.038892169965635,
+							42.351567719309493,
+							0.0
+						],
+						[
+							-83.039070455416436,
+							42.351504971587389,
+							0.0
+						],
+						[
+							-83.039154955706735,
+							42.351624809950017,
+							0.0
+						],
+						[
+							-83.03922251268969,
+							42.351599577461222,
+							0.0
+						],
+						[
+							-83.039826855710217,
+							42.351380236952153,
+							0.0
+						],
+						[
+							-83.039279245014868,
+							42.350564717509002,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Detroit Market Garden Central Greenhouse",
+				"Description":"Central greenhouse in complex of 4",
+				"Address":"3091 Orleans St, Detroit MI",
+				"URL":"<a href=\"https:\/\/cfsem.org\/media\/introducing-the-detroit-market-garden\/\">cfsem.org<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.039531878410202,
+							42.351367781766903,
+							0.0
+						],
+						[
+							-83.039329662301782,
+							42.351439133531102,
+							0.0
+						],
+						[
+							-83.039380378537132,
+							42.351520041930762,
+							0.0
+						],
+						[
+							-83.039584574132263,
+							42.351446682126202,
+							0.0
+						],
+						[
+							-83.039531878410202,
+							42.351367781766903,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Detroit Market Garden North Greenhouse",
+				"Description":"Northmost of 4 greenhouses",
+				"Address":"3091 Orleans St, Detroit MI",
+				"URL":"<a href=\"https:\/\/cfsem.org\/media\/introducing-the-detroit-market-garden\/\">cfsem.org<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.039700172372946,
+							42.351426312781342,
+							0.0
+						],
+						[
+							-83.039221738711632,
+							42.351598205066807,
+							0.0
+						],
+						[
+							-83.039270373758058,
+							42.351680783473462,
+							0.0
+						],
+						[
+							-83.039756074839602,
+							42.351504553094593,
+							0.0
+						],
+						[
+							-83.039700172372946,
+							42.351426312781342,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Detroit Market Garden SE Greenhouse",
+				"Description":"Southeast greenhouse in complex of 4",
+				"Address":"3091 Orleans St, Detroit MI",
+				"URL":"<a href=\"https:\/\/cfsem.org\/media\/introducing-the-detroit-market-garden\/\">cfsem.org<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.039223426784872,
+							42.351240267330468,
+							0.0
+						],
+						[
+							-83.039018913507419,
+							42.351314930245202,
+							0.0
+						],
+						[
+							-83.039067496694159,
+							42.351393369833147,
+							0.0
+						],
+						[
+							-83.039268375839086,
+							42.351320627303458,
+							0.0
+						],
+						[
+							-83.039223426784872,
+							42.351240267330468,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Detroit Market Garden SW Greenhouse",
+				"Description":"Southwest greenhouse in complex of 4",
+				"Address":"3091 Orleans St, Detroit MI",
+				"URL":"<a href=\"https:\/\/cfsem.org\/media\/introducing-the-detroit-market-garden\/\">cfsem.org<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.039660902281568,
+							42.351201335460992,
+							0.0
+						],
+						[
+							-83.039455688204015,
+							42.351275514146131,
+							0.0
+						],
+						[
+							-83.039506911143903,
+							42.351352718122939,
+							0.0
+						],
+						[
+							-83.03971191531312,
+							42.351281617868437,
+							0.0
+						],
+						[
+							-83.039660902281568,
+							42.351201335460992,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"EarthWorks Urban Farm – Community Orchard",
+				"Description":"Open Orchard",
+				"Address":"1100 Meldrum, Detroit MI",
+				"URL":"<a href=\"http:\/\/cskdetroit.org\">cskdetroit.org<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.012523780158062,
+							42.350110890375817,
+							0.0
+						],
+						[
+							-83.012398583925801,
+							42.349929641161587,
+							0.0
+						],
+						[
+							-83.011872063146342,
+							42.350122871896552,
+							0.0
+						],
+						[
+							-83.011979850905291,
+							42.35030009877859,
+							0.0
+						],
+						[
+							-83.012523780158062,
+							42.350110890375817,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"EarthWorks Urban Farm – Community Orchard (South Side)",
+				"Description":"Open Orchard",
+				"Address":"1100 Meldrum, Detroit MI",
+				"URL":"<a href=\"http:\/\/cskdetroit.org\">cskdetroit.org<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.012599914286255,
+							42.349893113783352,
+							0.0
+						],
+						[
+							-83.012842746359098,
+							42.34980444751082,
+							0.0
+						],
+						[
+							-83.012744189521783,
+							42.349664125777373,
+							0.0
+						],
+						[
+							-83.012512480513863,
+							42.349753598714393,
+							0.0
+						],
+						[
+							-83.012599914286255,
+							42.349893113783352,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"EarthWorks Urban Farm – Gleaners Community Food Bank",
+				"Description":"Open Ground",
+				"Address":"1100 Meldrum, Detroit MI",
+				"URL":"<a href=\"http:\/\/cskdetroit.org\">cskdetroit.org<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.014972865573554,
+							42.354037589275691,
+							0.0
+						],
+						[
+							-83.014712412095108,
+							42.353663363962127,
+							0.0
+						],
+						[
+							-83.01441008109083,
+							42.35377358760055,
+							0.0
+						],
+						[
+							-83.014663409706586,
+							42.354146412462413,
+							0.0
+						],
+						[
+							-83.014972865573554,
+							42.354037589275691,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"EarthWorks Urban Farm – Greenhouse",
+				"Description":"Greenhouse",
+				"Address":"1100 Meldrum, Detroit MI",
+				"URL":"<a href=\"http:\/\/cskdetroit.org\">cskdetroit.org<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.012554378748874,
+							42.350194497904539,
+							0.0
+						],
+						[
+							-83.012511186419005,
+							42.350117328834337,
+							0.0
+						],
+						[
+							-83.012185645824843,
+							42.35023874463942,
+							0.0
+						],
+						[
+							-83.012222414999897,
+							42.350307086571597,
+							0.0
+						],
+						[
+							-83.012554378748874,
+							42.350194497904539,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Feedom-Freedom Growers",
+				"Description":"Open ground",
+				"Address":"866 Manistique St, Detroit MI",
+				"URL":"<a href=\"http:\/\/facebook.com\/FeedomFreedom\">facebook.com\/FeedomFreedom<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-82.940247902878156,
+							42.372886475716427,
+							0.0
+						],
+						[
+							-82.940286055151091,
+							42.373045895644893,
+							0.0
+						],
+						[
+							-82.940314565549969,
+							42.373078220521343,
+							0.0
+						],
+						[
+							-82.940170576332633,
+							42.373126608880803,
+							0.0
+						],
+						[
+							-82.940150471034386,
+							42.373092551123896,
+							0.0
+						],
+						[
+							-82.940284023129394,
+							42.373045895645689,
+							0.0
+						],
+						[
+							-82.940246896265805,
+							42.372887208817282,
+							0.0
+						],
+						[
+							-82.940228793274088,
+							42.372892342671058,
+							0.0
+						],
+						[
+							-82.940226777074415,
+							42.372893810191002,
+							0.0
+						],
+						[
+							-82.940210693139704,
+							42.372894544063342,
+							0.0
+						],
+						[
+							-82.940183397103141,
+							42.372915860241903,
+							0.0
+						],
+						[
+							-82.939972305713241,
+							42.372992101511443,
+							0.0
+						],
+						[
+							-82.939999955310014,
+							42.373025674246684,
+							0.0
+						],
+						[
+							-82.939958864290887,
+							42.37304739551027,
+							0.0
+						],
+						[
+							-82.939976690522968,
+							42.373114480345407,
+							0.0
+						],
+						[
+							-82.940062591165216,
+							42.373169986000541,
+							0.0
+						],
+						[
+							-82.940153989432105,
+							42.373151689515517,
+							0.0
+						],
+						[
+							-82.9402078533615,
+							42.373221315685427,
+							0.0
+						],
+						[
+							-82.9404190650137,
+							42.373145601064728,
+							0.0
+						],
+						[
+							-82.940247902878156,
+							42.372886475716427,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Feedom-Freedom Growers Greenhouse",
+				"Description":"Greenhouse",
+				"Address":"866 Manistique St, Detroit MI",
+				"URL":"<a href=\"http:\/\/facebook.com\/FeedomFreedom\">facebook.com\/FeedomFreedom<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-82.940285332461627,
+							42.373044799990147,
+							0.0
+						],
+						[
+							-82.940149572095237,
+							42.373092481166097,
+							0.0
+						],
+						[
+							-82.940168488686567,
+							42.373127009521809,
+							0.0
+						],
+						[
+							-82.940310926605008,
+							42.373080149745988,
+							0.0
+						],
+						[
+							-82.940285332461627,
+							42.373044799990147,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Fisheye Farms",
+				"Description":"Farm newer than Google Earth imagery so no area available",
+				"Address":"1815 Van Dyke, Detroit MI",
+				"URL":"<a href=\"http:\/\/tbcs-solutions.com\/fisheye\">tbcs-solutions.com\/fisheye<\/a>"
+			},
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-82.999694444444444,
+					42.357777777777777,
+					0.0
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Food Field",
+				"Description":"Open ground",
+				"Address":"1631 Merritt St, Detroit MI",
+				"URL":"<a href=\"http:\/\/foodfielddetroit.com\">foodfielddetroit.com<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.103922307605032,
+							42.385625455854878,
+							0.0
+						],
+						[
+							-83.103715111456964,
+							42.385389474769468,
+							0.0
+						],
+						[
+							-83.103458888727204,
+							42.385415177034012,
+							0.0
+						],
+						[
+							-83.1033497566509,
+							42.385392981010519,
+							0.0
+						],
+						[
+							-83.103278583416483,
+							42.385328728544273,
+							0.0
+						],
+						[
+							-83.102560523926954,
+							42.385598588838469,
+							0.0
+						],
+						[
+							-83.102660164943543,
+							42.385854432001963,
+							0.0
+						],
+						[
+							-83.102835725822914,
+							42.386047190862421,
+							0.0
+						],
+						[
+							-83.103922307605032,
+							42.385625455854878,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Georgia Street Community Garden",
+				"Description":"42 raised beds",
+				"Address":"8902 Vinton, Detroit MI",
+				"URL":"<a href=\"http:\/\/georgiastreetcc.com\">georgiastreetcc.com<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.009427492691671,
+							42.394999084205068,
+							0.0
+						],
+						[
+							-83.00945168454983,
+							42.395012287102773,
+							0.0
+						],
+						[
+							-83.009459984422222,
+							42.394997981019358,
+							0.0
+						],
+						[
+							-83.009463391468884,
+							42.394981425815168,
+							0.0
+						],
+						[
+							-83.009421139645923,
+							42.394872400409319,
+							0.0
+						],
+						[
+							-83.009356181076257,
+							42.394882300875643,
+							0.0
+						],
+						[
+							-83.009349675778907,
+							42.394907850757463,
+							0.0
+						],
+						[
+							-83.009221988787317,
+							42.3949167068346,
+							0.0
+						],
+						[
+							-83.009181736074169,
+							42.394892117640282,
+							0.0
+						],
+						[
+							-83.009148396556981,
+							42.394905679802839,
+							0.0
+						],
+						[
+							-83.009181139491787,
+							42.395036041925337,
+							0.0
+						],
+						[
+							-83.009427492691671,
+							42.394999084205068,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Hope Takes Root Garden",
+				"Description":"Open ground",
+				"Address":"2828 Wabash St, Detroit MI",
+				"URL":"<a href=\"https:\/\/www.opengreenmap.org\/greenmap\/detroit\/hope-takes-root-9508\">opengreenmap.org\/greenmap\/detroit\/hope-takes-root-9508<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.077601602603437,
+							42.335234194241053,
+							0.0
+						],
+						[
+							-83.077522995569552,
+							42.335154383932078,
+							0.0
+						],
+						[
+							-83.077362940704433,
+							42.335204090478094,
+							0.0
+						],
+						[
+							-83.077427341499998,
+							42.335298602783212,
+							0.0
+						],
+						[
+							-83.077601602603437,
+							42.335234194241053,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Lafayette Greens",
+				"Description":"35 raised beds",
+				"Address":"132 W Lafayette, Detroit MI"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.049601710978237,
+							42.331385020033707,
+							0.0
+						],
+						[
+							-83.049553887309401,
+							42.331319472087159,
+							0.0
+						],
+						[
+							-83.049200112436694,
+							42.331317918208583,
+							0.0
+						],
+						[
+							-83.049200834419352,
+							42.3315082376986,
+							0.0
+						],
+						[
+							-83.049605115046518,
+							42.331509348136471,
+							0.0
+						],
+						[
+							-83.049601710978237,
+							42.331385020033707,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Lamphere Community Garden",
+				"Description":"Open ground",
+				"Address":"14910 Lamphere St, Detroit MI",
+				"URL":"<a href=\"http:\/\/neighborsbuildingbrightmoor.org\/brightmoor-life\/programs\">neighborsbuildingbrightmoor.org<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.261309803611525,
+							42.396839071550161,
+							0.0
+						],
+						[
+							-83.261243090819946,
+							42.396839073699788,
+							0.0
+						],
+						[
+							-83.26124716214396,
+							42.396888885962419,
+							0.0
+						],
+						[
+							-83.261318897778906,
+							42.396886207895797,
+							0.0
+						],
+						[
+							-83.26131343138367,
+							42.396838184511118,
+							0.0
+						],
+						[
+							-83.26145983445015,
+							42.396747062339429,
+							0.0
+						],
+						[
+							-83.261130119866209,
+							42.396755222417163,
+							0.0
+						],
+						[
+							-83.261132909675297,
+							42.396932710318531,
+							0.0
+						],
+						[
+							-83.261459492888889,
+							42.396921052383092,
+							0.0
+						],
+						[
+							-83.261459492794984,
+							42.396747309520322,
+							0.0
+						],
+						[
+							-83.261309803611525,
+							42.396839071550161,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Lamphere Community Garden Greenhouse",
+				"Description":"Greenhouse",
+				"Address":"14910 Lamphere St, Detroit MI",
+				"URL":"<a href=\"http:\/\/neighborsbuildingbrightmoor.org\/brightmoor-life\/programs\">neighborsbuildingbrightmoor.org<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.261314644276766,
+							42.396838184471598,
+							0.0
+						],
+						[
+							-83.261247950428725,
+							42.396839960556051,
+							0.0
+						],
+						[
+							-83.261249579288815,
+							42.396887101961397,
+							0.0
+						],
+						[
+							-83.261315260254079,
+							42.396887099845863,
+							0.0
+						],
+						[
+							-83.261314644276766,
+							42.396838184471598,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"North Cass Community Garden",
+				"Description":"34 Raised beds",
+				"Address":"4177 2nd Ave, Detroit MI",
+				"URL":"<a href=\"https:\/\/www.facebook.com\/NorthCassCommunityGarden\">facebook.com\/NorthCassCommunityGarden<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.065985784905536,
+							42.349133718490357,
+							0.0
+						],
+						[
+							-83.065627885729711,
+							42.349246491782111,
+							0.0
+						],
+						[
+							-83.065847063643474,
+							42.349631290534987,
+							0.0
+						],
+						[
+							-83.06593214606157,
+							42.34965862972571,
+							0.0
+						],
+						[
+							-83.066228084665468,
+							42.349561575467689,
+							0.0
+						],
+						[
+							-83.065985784905536,
+							42.349133718490357,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Northend Community Garden 4 Greenhouses",
+				"Description":"4 Greenhouses",
+				"Address":"7432 Brush St, Detroit MI",
+				"URL":"<a href=\"http:\/\/miufi.org\">miufi.org<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.069903238131587,
+							42.373187135797302,
+							0.0
+						],
+						[
+							-83.069952671199147,
+							42.373171963941843,
+							0.0
+						],
+						[
+							-83.069899922997749,
+							42.37309284560385,
+							0.0
+						],
+						[
+							-83.069845839326831,
+							42.373110910384632,
+							0.0
+						],
+						[
+							-83.069838277420345,
+							42.373098435128853,
+							0.0
+						],
+						[
+							-83.069794274459056,
+							42.373115698959452,
+							0.0
+						],
+						[
+							-83.069888460226849,
+							42.373249365445382,
+							0.0
+						],
+						[
+							-83.069929571691574,
+							42.373231650883568,
+							0.0
+						],
+						[
+							-83.069903238131587,
+							42.373187135797302,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Northend Community Garden Beds",
+				"Description":"11 Raised boxes at SE corner of Brush & Custer",
+				"Address":"7432 Brush St, Detroit MI",
+				"URL":"<a href=\"http:\/\/miufi.org\">miufi.org<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.06953455286353,
+							42.373433420104867,
+							0.0
+						],
+						[
+							-83.069514446678198,
+							42.373438606486999,
+							0.0
+						],
+						[
+							-83.069593620512521,
+							42.373562434487397,
+							0.0
+						],
+						[
+							-83.06941108686064,
+							42.373627229482267,
+							0.0
+						],
+						[
+							-83.069423407847495,
+							42.373642542587767,
+							0.0
+						],
+						[
+							-83.069623482481759,
+							42.3735674848405,
+							0.0
+						],
+						[
+							-83.06953455286353,
+							42.373433420104867,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Northend Community Garden East",
+				"Description":"Open ground off Custer St, east of Brush St",
+				"Address":"7432 Brush St, Detroit MI",
+				"URL":"<a href=\"http:\/\/miufi.org\">miufi.org<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.069360490397614,
+							42.373662002639023,
+							0.0
+						],
+						[
+							-83.0692407145808,
+							42.373440170021311,
+							0.0
+						],
+						[
+							-83.069186696185412,
+							42.373484366005883,
+							0.0
+						],
+						[
+							-83.06913075708006,
+							42.373509755042669,
+							0.0
+						],
+						[
+							-83.069051501069652,
+							42.373540564603609,
+							0.0
+						],
+						[
+							-83.068990799942284,
+							42.37354908918428,
+							0.0
+						],
+						[
+							-83.068935814526469,
+							42.373556557209497,
+							0.0
+						],
+						[
+							-83.069074967679043,
+							42.373765840113514,
+							0.0
+						],
+						[
+							-83.069360490397614,
+							42.373662002639023,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Northend Community Garden West",
+				"Description":"West side of Brush St. open ground ",
+				"Address":"7432 Brush St, Detroit MI",
+				"URL":"<a href=\"http:\/\/miufi.org\">miufi.org<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.07039791917461,
+							42.373028243227367,
+							0.0
+						],
+						[
+							-83.070032614886998,
+							42.373152549793801,
+							0.0
+						],
+						[
+							-83.069955233562851,
+							42.373054171113203,
+							0.0
+						],
+						[
+							-83.069836464507418,
+							42.373096049368748,
+							0.0
+						],
+						[
+							-83.069848161658001,
+							42.373110673246643,
+							0.0
+						],
+						[
+							-83.069900348111858,
+							42.373092725431484,
+							0.0
+						],
+						[
+							-83.069949836289794,
+							42.373169168416808,
+							0.0
+						],
+						[
+							-83.069907547276657,
+							42.373185786754533,
+							0.0
+						],
+						[
+							-83.069928242473125,
+							42.373229658402707,
+							0.0
+						],
+						[
+							-83.069886853211599,
+							42.373248935624957,
+							0.0
+						],
+						[
+							-83.069794175508477,
+							42.373114661837242,
+							0.0
+						],
+						[
+							-83.069588128369858,
+							42.373194429471347,
+							0.0
+						],
+						[
+							-83.069797777848166,
+							42.373501531308897,
+							0.0
+						],
+						[
+							-83.070530189284923,
+							42.373232976874831,
+							0.0
+						],
+						[
+							-83.07039791917461,
+							42.373028243227367,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Northend Community Garden West Greenhouse",
+				"Description":"1 building - Greenhouse",
+				"Address":"7432 Brush St, Detroit MI",
+				"URL":"<a href=\"http:\/\/miufi.org\">miufi.org<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.070186337195594,
+							42.373029752792803,
+							0.0
+						],
+						[
+							-83.070103764518294,
+							42.373058794246752,
+							0.0
+						],
+						[
+							-83.070133521657723,
+							42.373100366444753,
+							0.0
+						],
+						[
+							-83.070213958407791,
+							42.373070130230559,
+							0.0
+						],
+						[
+							-83.070186337195594,
+							42.373029752792803,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Oakland Ave Gardens",
+				"Description":"Open ground",
+				"Address":"9354 Oakland Ave, Detroit MI",
+				"URL":"<a href=\"http:\/\/northend-cdc.org\/sample-page\">northend-cdc.org\/sample-page<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.073240042624704,
+							42.387444722351198,
+							0.0
+						],
+						[
+							-83.073404759824882,
+							42.387380474645312,
+							0.0
+						],
+						[
+							-83.073310371350061,
+							42.387262914672107,
+							0.0
+						],
+						[
+							-83.073156758801133,
+							42.387306657637311,
+							0.0
+						],
+						[
+							-83.073240042624704,
+							42.387444722351198,
+							0.0
+						],
+						[
+							-83.072988338301471,
+							42.387679841282747,
+							0.0
+						],
+						[
+							-83.072834724213692,
+							42.387719482939993,
+							0.0
+						],
+						[
+							-83.072906903477659,
+							42.387826107264388,
+							0.0
+						],
+						[
+							-83.073060517665297,
+							42.38778509848688,
+							0.0
+						],
+						[
+							-83.072988338301471,
+							42.387679841282747,
+							0.0
+						],
+						[
+							-83.073240042624704,
+							42.387444722351198,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Oakland Ave. Gardens Greenhouse",
+				"Description":"Greenhouse",
+				"Address":"9354 Oakland Ave, Detroit MI",
+				"URL":"<a href=\"http:\/\/northend-cdc.org\/sample-page\">northend-cdc.org\/sample-page<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.073295564905649,
+							42.387905392499349,
+							0.0
+						],
+						[
+							-83.073243743524429,
+							42.387831575889649,
+							0.0
+						],
+						[
+							-83.073012396834969,
+							42.387921795820652,
+							0.0
+						],
+						[
+							-83.073067919584261,
+							42.387995612585499,
+							0.0
+						],
+						[
+							-83.073295564905649,
+							42.387905392499349,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Penrose Art House & Art Garden",
+				"Description":"Open land",
+				"Address":"19524 Charleston St, Detroit MI",
+				"URL":"<a href=\"http:\/\/facebook.com\/pages\/Penrose-Art-House-Art-Garden\">facebook.com\/pages\/Penrose-Art-House-Art-Garden<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.106909336002701,
+							42.436764014881547,
+							0.0
+						],
+						[
+							-83.106910515828687,
+							42.436612883061997,
+							0.0
+						],
+						[
+							-83.107284647681169,
+							42.436602766508457,
+							0.0
+						],
+						[
+							-83.107265018898531,
+							42.436098371324228,
+							0.0
+						],
+						[
+							-83.106912515662046,
+							42.436111473143583,
+							0.0
+						],
+						[
+							-83.106907456934167,
+							42.436879866776337,
+							0.0
+						],
+						[
+							-83.107103117317294,
+							42.436954910535732,
+							0.0
+						],
+						[
+							-83.107298170361133,
+							42.4369672616101,
+							0.0
+						],
+						[
+							-83.10728358588203,
+							42.43676252602264,
+							0.0
+						],
+						[
+							-83.106909336002701,
+							42.436764014881547,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Pingree Farms - north sites",
+				"Description":"open ground",
+				"Address":"580 E Brentwood St, Detroit MI",
+				"URL":"<a href=\"http:\/\/pingreefarms.com\">pingreefarms.com<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.096319320579425,
+							42.428895578783518,
+							0.0
+						],
+						[
+							-83.095945228055299,
+							42.428890715636172,
+							0.0
+						],
+						[
+							-83.095918872341073,
+							42.429212612577501,
+							0.0
+						],
+						[
+							-83.096330237471989,
+							42.429198730128618,
+							0.0
+						],
+						[
+							-83.096334866700275,
+							42.429322687815059,
+							0.0
+						],
+						[
+							-83.095060200293389,
+							42.429370319523137,
+							0.0
+						],
+						[
+							-83.095087905386563,
+							42.429653123548952,
+							0.0
+						],
+						[
+							-83.096344348564003,
+							42.429595788771529,
+							0.0
+						],
+						[
+							-83.096347469437774,
+							42.429686778451391,
+							0.0
+						],
+						[
+							-83.095098319178561,
+							42.429714852725191,
+							0.0
+						],
+						[
+							-83.095143267346231,
+							42.430033553316058,
+							0.0
+						],
+						[
+							-83.096358280408424,
+							42.4299873236669,
+							0.0
+						],
+						[
+							-83.096380510837378,
+							42.430594796574532,
+							0.0
+						],
+						[
+							-83.095989644170047,
+							42.430605544647626,
+							0.0
+						],
+						[
+							-83.095982633000105,
+							42.430797860132373,
+							0.0
+						],
+						[
+							-83.096386958298154,
+							42.430780105788827,
+							0.0
+						],
+						[
+							-83.096405471317055,
+							42.431267449475762,
+							0.0
+						],
+						[
+							-83.095317982086556,
+							42.431299085603371,
+							0.0
+						],
+						[
+							-83.095362925098939,
+							42.431620503179097,
+							0.0
+						],
+						[
+							-83.096416380606172,
+							42.431576110769299,
+							0.0
+						],
+						[
+							-83.09642065989776,
+							42.431711583751088,
+							0.0
+						],
+						[
+							-83.095380462453221,
+							42.431749281543517,
+							0.0
+						],
+						[
+							-83.095423246650569,
+							42.432062552222717,
+							0.0
+						],
+						[
+							-83.0954505573456,
+							42.432090960709708,
+							0.0
+						],
+						[
+							-83.095495649043059,
+							42.432099067861877,
+							0.0
+						],
+						[
+							-83.096433813194622,
+							42.43206372454339,
+							0.0
+						],
+						[
+							-83.096319320579425,
+							42.428895578783518,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Pingree Farms - Robinwood & Chrysler Service site",
+				"Description":"Open ground",
+				"Address":"752 E Robinwood St, Detroit MI",
+				"URL":"<a href=\"http:\/\/pingreefarms.com\">pingreefarms.com<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.095160261226184,
+							42.430161568584658,
+							0.0
+						],
+						[
+							-83.095201508979329,
+							42.430488858995403,
+							0.0
+						],
+						[
+							-83.09541084678861,
+							42.430481247676553,
+							0.0
+						],
+						[
+							-83.095444876642276,
+							42.430153196206703,
+							0.0
+						],
+						[
+							-83.095160261226184,
+							42.430161568584658,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Pingree Farms - South sites",
+				"Description":"Open ground",
+				"Address":"18400 Chrysler Service Dr, Detroit MI",
+				"URL":"<a href=\"http:\/\/pingreefarms.com\">pingreefarms.com<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.094945900231025,
+							42.428080071387832,
+							0.0
+						],
+						[
+							-83.095445045556346,
+							42.428077136560781,
+							0.0
+						],
+						[
+							-83.095453000043477,
+							42.427914938806062,
+							0.0
+						],
+						[
+							-83.094939935823376,
+							42.427912735917111,
+							0.0
+						],
+						[
+							-83.094934229441193,
+							42.427783008890778,
+							0.0
+						],
+						[
+							-83.096221056993329,
+							42.427730217004367,
+							0.0
+						],
+						[
+							-83.096210068325263,
+							42.427449473898093,
+							0.0
+						],
+						[
+							-83.094921330367086,
+							42.42746980824532,
+							0.0
+						],
+						[
+							-83.094919662850415,
+							42.427413380833201,
+							0.0
+						],
+						[
+							-83.095692078180619,
+							42.427385306512463,
+							0.0
+						],
+						[
+							-83.0956827498607,
+							42.427157421340681,
+							0.0
+						],
+						[
+							-83.094907518775756,
+							42.427191157462552,
+							0.0
+						],
+						[
+							-83.094906171136671,
+							42.427058923050069,
+							0.0
+						],
+						[
+							-83.095943288050762,
+							42.427020266416562,
+							0.0
+						],
+						[
+							-83.095940816905397,
+							42.426749472404794,
+							0.0
+						],
+						[
+							-83.094894324229614,
+							42.426785919603802,
+							0.0
+						],
+						[
+							-83.094945900231025,
+							42.428080071387832,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Pingree Farms Greenhouse",
+				"Description":"Greenhouse",
+				"Address":"580 E Brentwood, Detroit MI",
+				"URL":"<a href=\"http:\/\/pingreefarms.com\">pingreefarms.com<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.09626813189989,
+							42.430538133955928,
+							0.0
+						],
+						[
+							-83.095909964681525,
+							42.430550079221497,
+							0.0
+						],
+						[
+							-83.09591238093661,
+							42.430605226357621,
+							0.0
+						],
+						[
+							-83.09627498104841,
+							42.43059769128061,
+							0.0
+						],
+						[
+							-83.09626813189989,
+							42.430538133955928,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Plum St Garden",
+				"Description":"Open land excluding greenhouse ",
+				"Address":"2202 3rd St, Detroit MI ",
+				"URL":"<a href=\"http:\/\/detroitagriculture.net\/the-farm\/\">detroitagriculture.net\/the-farm\/<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.059637951130739,
+							42.335947932555193,
+							0.0
+						],
+						[
+							-83.05920419381404,
+							42.335966921267847,
+							0.0
+						],
+						[
+							-83.059003920289996,
+							42.336025762819943,
+							0.0
+						],
+						[
+							-83.058856752531284,
+							42.335782856203629,
+							0.0
+						],
+						[
+							-83.059077349874087,
+							42.335715893813948,
+							0.0
+						],
+						[
+							-83.059205279959585,
+							42.335966837898141,
+							0.0
+						],
+						[
+							-83.059636573319665,
+							42.335948005458832,
+							0.0
+						],
+						[
+							-83.059653481721583,
+							42.33591881290576,
+							0.0
+						],
+						[
+							-83.059345297617696,
+							42.335350580027878,
+							0.0
+						],
+						[
+							-83.059309421231703,
+							42.335331502759743,
+							0.0
+						],
+						[
+							-83.058233478388772,
+							42.335675627135828,
+							0.0
+						],
+						[
+							-83.058159165153512,
+							42.335925051375952,
+							0.0
+						],
+						[
+							-83.058893754991445,
+							42.336220833942342,
+							0.0
+						],
+						[
+							-83.058918623310774,
+							42.336225183690473,
+							0.0
+						],
+						[
+							-83.059637951130739,
+							42.335947932555193,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Plum St Garden Greenhouses",
+				"Description":"2 Greenhouses",
+				"Address":"2202 3rd St, Detroit MI",
+				"URL":"<a href=\"http:\/\/detroitagriculture.net\/the-farm\/\">detroitagriculture.net\/the-farm\/<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.059078739162914,
+							42.335716130939723,
+							0.0
+						],
+						[
+							-83.058859786049396,
+							42.335781451390652,
+							0.0
+						],
+						[
+							-83.059012105597091,
+							42.336023488772703,
+							0.0
+						],
+						[
+							-83.059207840106353,
+							42.335966102216481,
+							0.0
+						],
+						[
+							-83.059078739162914,
+							42.335716130939723,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Rising Pheasant Farms",
+				"Description":"Open ground",
+				"Address":"3525 Frederick St, Detroit MI",
+				"URL":"<a href=\"https:\/\/www.facebook.com\/Rising-Pheasant-Farms\">facebook.com\/Rising-Pheasant-Farms<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.032597934399917,
+							42.371086138050153,
+							0.0
+						],
+						[
+							-83.03229026546353,
+							42.371197414749872,
+							0.0
+						],
+						[
+							-83.032427108671271,
+							42.371394185680842,
+							0.0
+						],
+						[
+							-83.032732941466577,
+							42.371291050784457,
+							0.0
+						],
+						[
+							-83.032597934399917,
+							42.371086138050153,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Rising Pheasant Farms Greenhouse",
+				"Description":"Greenhouse",
+				"Address":"3525 Frederick St, Detroit MI",
+				"URL":"<a href=\"https:\/\/www.facebook.com\/Rising-Pheasant-Farms\">facebook.com\/Rising-Pheasant-Farms<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.032832129810515,
+							42.371127527498139,
+							0.0
+						],
+						[
+							-83.032751309473284,
+							42.37115534692763,
+							0.0
+						],
+						[
+							-83.032783454080658,
+							42.371201486185662,
+							0.0
+						],
+						[
+							-83.032861519244236,
+							42.371175023789633,
+							0.0
+						],
+						[
+							-83.032832129810515,
+							42.371127527498139,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Romanowski Park Garden",
+				"Description":"Open ground",
+				"Address":"4302 Trenton St, Detroit MI",
+				"URL":"<a href=\"https:\/\/attra.ncat.org\/attra-pub\/internships\/farmdetails.php?FarmName=&City=&State=MI&Keyword=&allDate=0&page=5&FarmID=1003\">attra.ncat.org<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.143056001829478,
+							42.326509337116029,
+							0.0
+						],
+						[
+							-83.142688744141708,
+							42.326708343995421,
+							0.0
+						],
+						[
+							-83.142730559149399,
+							42.326758077047167,
+							0.0
+						],
+						[
+							-83.142757092371198,
+							42.326843278228587,
+							0.0
+						],
+						[
+							-83.142736905878039,
+							42.327032284474058,
+							0.0
+						],
+						[
+							-83.142744494123832,
+							42.327165871632602,
+							0.0
+						],
+						[
+							-83.143043482341298,
+							42.32698907212572,
+							0.0
+						],
+						[
+							-83.143156776523412,
+							42.327002403633749,
+							0.0
+						],
+						[
+							-83.143422075691007,
+							42.326820384590363,
+							0.0
+						],
+						[
+							-83.143056001829478,
+							42.326509337116029,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Romanowski Park Orchard",
+				"Description":"Fruit\/maple tree Orchard",
+				"Address":"4302 Trenton St, Detroit MI",
+				"URL":"<a href=\"https:\/\/attra.ncat.org\/attra-pub\/internships\/farmdetails.php?FarmName=&City=&State=MI&Keyword=&allDate=0&page=5&FarmID=1003\">attra.ncat.org<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.14239790829474,
+							42.327301090918013,
+							0.0
+						],
+						[
+							-83.142496542522181,
+							42.327266151123467,
+							0.0
+						],
+						[
+							-83.142580457444126,
+							42.327205591218387,
+							0.0
+						],
+						[
+							-83.14265672590578,
+							42.327137591807727,
+							0.0
+						],
+						[
+							-83.142698286609047,
+							42.327047970990051,
+							0.0
+						],
+						[
+							-83.142714941133633,
+							42.326973893630473,
+							0.0
+						],
+						[
+							-83.142705315602058,
+							42.326915981719409,
+							0.0
+						],
+						[
+							-83.142691129561939,
+							42.326800539699398,
+							0.0
+						],
+						[
+							-83.14266297452555,
+							42.326752627647558,
+							0.0
+						],
+						[
+							-83.142651177786263,
+							42.326735342530171,
+							0.0
+						],
+						[
+							-83.142577998638401,
+							42.326651615720273,
+							0.0
+						],
+						[
+							-83.142553331005402,
+							42.326616191953264,
+							0.0
+						],
+						[
+							-83.142522721793526,
+							42.326579247733847,
+							0.0
+						],
+						[
+							-83.142478446676321,
+							42.326550375451568,
+							0.0
+						],
+						[
+							-83.142440802920689,
+							42.326530094229078,
+							0.0
+						],
+						[
+							-83.142434786459532,
+							42.32652844330957,
+							0.0
+						],
+						[
+							-83.142428948485701,
+							42.326525671977826,
+							0.0
+						],
+						[
+							-83.14242275595501,
+							42.326525142132994,
+							0.0
+						],
+						[
+							-83.142415372446081,
+							42.326522239204031,
+							0.0
+						],
+						[
+							-83.142407811884254,
+							42.326520456927327,
+							0.0
+						],
+						[
+							-83.142403168422376,
+							42.326520059622773,
+							0.0
+						],
+						[
+							-83.142395789028413,
+							42.326517157923178,
+							0.0
+						],
+						[
+							-83.142389778806773,
+							42.32651550875179,
+							0.0
+						],
+						[
+							-83.142382221986281,
+							42.326513727401313,
+							0.0
+						],
+						[
+							-83.142374847380808,
+							42.326510827325883,
+							0.0
+						],
+						[
+							-83.142368840172566,
+							42.326509179018807,
+							0.0
+						],
+						[
+							-83.142364380763155,
+							42.326507663296972,
+							0.0
+						],
+						[
+							-83.142352370157269,
+							42.326504367800247,
+							0.0
+						],
+						[
+							-83.142343272705943,
+							42.326502455689138,
+							0.0
+						],
+						[
+							-83.14233708598185,
+							42.326501926335212,
+							0.0
+						],
+						[
+							-83.142331083313778,
+							42.326500279173253,
+							0.0
+						],
+						[
+							-83.142323534982296,
+							42.326498499910919,
+							0.0
+						],
+						[
+							-83.142320626761631,
+							42.326497117822043,
+							0.0
+						],
+						[
+							-83.142313080132169,
+							42.326495339007842,
+							0.0
+						],
+						[
+							-83.142302628099102,
+							42.32649217895117,
+							0.0
+						],
+						[
+							-83.142290633000499,
+							42.32648888746963,
+							0.0
+						],
+						[
+							-83.142279999418292,
+							42.326486845280193,
+							0.0
+						],
+						[
+							-83.142268197879318,
+							42.326482439411521,
+							0.0
+						],
+						[
+							-83.142260470681663,
+							42.326481778243597,
+							0.0
+						],
+						[
+							-83.14224984196332,
+							42.326479737072482,
+							0.0
+						],
+						[
+							-83.142243660611697,
+							42.326479208171712,
+							0.0
+						],
+						[
+							-83.142229943259849,
+							42.326476902873779,
+							0.0
+						],
+						[
+							-83.142222217095863,
+							42.326476241791021,
+							0.0
+						],
+						[
+							-83.142211400480164,
+							42.326475316275257,
+							0.0
+						],
+						[
+							-83.142197686203545,
+							42.326473011386817,
+							0.0
+						],
+						[
+							-83.142191698874655,
+							42.326471367800657,
+							0.0
+						],
+						[
+							-83.142183973761405,
+							42.326470706804507,
+							0.0
+						],
+						[
+							-83.142171808051586,
+							42.326468534717172,
+							0.0
+						],
+						[
+							-83.142164083472281,
+							42.326467873765012,
+							0.0
+						],
+						[
+							-83.142157903773565,
+							42.326467344999799,
+							0.0
+						],
+						[
+							-83.142151724074736,
+							42.326466816234152,
+							0.0
+						],
+						[
+							-83.142142454543873,
+							42.326466023086397,
+							0.0
+						],
+						[
+							-83.142130095180704,
+							42.326464965555559,
+							0.0
+						],
+						[
+							-83.142120825649215,
+							42.326464172405558,
+							0.0
+						],
+						[
+							-83.142113101033544,
+							42.326463511445979,
+							0.0
+						],
+						[
+							-83.142103831501501,
+							42.326462718294209,
+							0.0
+						],
+						[
+							-83.142094561969117,
+							42.326461925141473,
+							0.0
+						],
+						[
+							-83.142085292436406,
+							42.326461131987749,
+							0.0
+						],
+						[
+							-83.142077567819683,
+							42.326460471025086,
+							0.0
+						],
+						[
+							-83.142068298286318,
+							42.326459677869593,
+							0.0
+						],
+						[
+							-83.142060573669028,
+							42.326459016905439,
+							0.0
+						],
+						[
+							-83.142052646579629,
+							42.326459469748492,
+							0.0
+						],
+						[
+							-83.142048011484846,
+							42.32645907314155,
+							0.0
+						],
+						[
+							-83.142040286350067,
+							42.326458412131437,
+							0.0
+						],
+						[
+							-83.142032561250161,
+							42.326457751123662,
+							0.0
+						],
+						[
+							-83.142026176878744,
+							42.326458336120531,
+							0.0
+						],
+						[
+							-83.142018246425977,
+							42.326458788975692,
+							0.0
+						],
+						[
+							-83.142008769581281,
+							42.326459109662238,
+							0.0
+						],
+						[
+							-83.141999497563873,
+							42.326458316287422,
+							0.0
+						],
+						[
+							-83.141991770876459,
+							42.32645765514048,
+							0.0
+						],
+						[
+							-83.141980746190654,
+							42.326457843532019,
+							0.0
+						],
+						[
+							-83.141974564419414,
+							42.32645731457724,
+							0.0
+						],
+						[
+							-83.14196065547722,
+							42.326456124431147,
+							0.0
+						],
+						[
+							-83.141954264582395,
+							42.326456709470833,
+							0.0
+						],
+						[
+							-83.141947872831921,
+							42.326457294588387,
+							0.0
+						],
+						[
+							-83.141943026011702,
+							42.326458012018684,
+							0.0
+						],
+						[
+							-83.141938178501078,
+							42.326458729574973,
+							0.0
+						],
+						[
+							-83.141925600582709,
+							42.326458785812036,
+							0.0
+						],
+						[
+							-83.141920539791613,
+							42.326460618220104,
+							0.0
+						],
+						[
+							-83.141912596951812,
+							42.326461071522203,
+							0.0
+						],
+						[
+							-83.141905774458081,
+							42.326463887501177,
+							0.0
+						],
+						[
+							-83.141899588130272,
+							42.326463358151848,
+							0.0
+						],
+						[
+							-83.141892975039923,
+							42.326465059552653,
+							0.0
+						],
+						[
+							-83.141886146288073,
+							42.326467877238223,
+							0.0
+						],
+						[
+							-83.141877981917233,
+							42.32646944741736,
+							0.0
+						],
+						[
+							-83.141871147821035,
+							42.326472266957943,
+							0.0
+						],
+						[
+							-83.141862763125516,
+							42.326474955185212,
+							0.0
+						],
+						[
+							-83.141856139375363,
+							42.326476659590007,
+							0.0
+						],
+						[
+							-83.141847965435318,
+							42.326478231990421,
+							0.0
+						],
+						[
+							-83.141842886461191,
+							42.326480069829998,
+							0.0
+						],
+						[
+							-83.141838023491204,
+							42.326480790162023,
+							0.0
+						],
+						[
+							-83.141831175394472,
+							42.326483614439397,
+							0.0
+						],
+						[
+							-83.141822993787954,
+							42.326485188620282,
+							0.0
+						],
+						[
+							-83.141816140445087,
+							42.326488014701631,
+							0.0
+						],
+						[
+							-83.141809503691917,
+							42.326489722598041,
+							0.0
+						],
+						[
+							-83.141804195325449,
+							42.326492683203789,
+							0.0
+						],
+						[
+							-83.141798884820702,
+							42.326495645001401,
+							0.0
+						],
+						[
+							-83.141792021488257,
+							42.326498475267478,
+							0.0
+						],
+						[
+							-83.141785376662881,
+							42.326500185834199,
+							0.0
+						],
+						[
+							-83.141780059512072,
+							42.326503150733238,
+							0.0
+						],
+						[
+							-83.141771859423102,
+							42.326504729748237,
+							0.0
+						],
+						[
+							-83.141766537767552,
+							42.326507696524573,
+							0.0
+						],
+						[
+							-83.141758333175972,
+							42.326509276685726,
+							0.0
+						],
+						[
+							-83.141756111302655,
+							42.326512511040022,
+							0.0
+						],
+						[
+							-83.14239790829474,
+							42.327301090918013,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		},
+		{
+			"type":"Feature",
+			"properties":{
+				"Name":"Singing Tree Garden",
+				"Description":"Open ground",
+				"Address":"29 E Parkhurst Pl",
+				"URL":"<a href=\"http:\/\/singingtreedetroit.net\">singingtreedetroit.net<\/a>"
+			},
+			"geometry":{
+				"type":"Polygon",
+				"coordinates":[
+					[
+						[
+							-83.100449147612267,
+							42.421018444663439,
+							0.0
+						],
+						[
+							-83.100460230952265,
+							42.42118812171384,
+							0.0
+						],
+						[
+							-83.100707337851105,
+							42.421217015487258,
+							0.0
+						],
+						[
+							-83.1008052332907,
+							42.421230592293732,
+							0.0
+						],
+						[
+							-83.10087481701747,
+							42.421237419766953,
+							0.0
+						],
+						[
+							-83.1009230685181,
+							42.421235512903358,
+							0.0
+						],
+						[
+							-83.101059500505016,
+							42.421237543098037,
+							0.0
+						],
+						[
+							-83.101079415607302,
+							42.421110661846562,
+							0.0
+						],
+						[
+							-83.101070511154987,
+							42.421057568839537,
+							0.0
+						],
+						[
+							-83.101047856779431,
+							42.421026033337249,
+							0.0
+						],
+						[
+							-83.101030702642603,
+							42.421001965833653,
+							0.0
+						],
+						[
+							-83.100449147612267,
+							42.421018444663439,
+							0.0
+						]
+						
+					]
+					
+				]
+				
+			}
+			
+		}
+		
+	]
+}
