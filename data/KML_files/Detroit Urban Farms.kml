@@ -1,0 +1,2037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Detroit Urban Farms.kml</name>
+	<Style id="s_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl14">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl18">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin90">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1000">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin110">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin100">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl15">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00aa00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00aa00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl16">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl110">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl17">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Detroit Urban Farms</name>
+		<open>1</open>
+		<LookAt>
+			<longitude>-83.15376333181744</longitude>
+			<latitude>42.36328967437036</latitude>
+			<altitude>0</altitude>
+			<heading>7.951386703658792e-016</heading>
+			<tilt>44.99944764789533</tilt>
+			<range>24415.4590342884</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<Placemark>
+			<name>Art Center Community Garden</name>
+			<description><![CDATA[30 raised beds
+203 E Palmer St, Detroit MI
+<a href="https://www.facebook.com/ArtCenterGarden">facebook.com/ArtCenterGarden</a>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.06548842713762,42.36291855851169,0 -83.06523643974495,42.36254580196323,0 -83.06473749080404,42.36276059155393,0 -83.06504638640335,42.36313304907198,0 -83.06546607888035,42.362963101798,0 -83.06548842713762,42.36291855851169,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Brightmoor Youth Garden</name>
+			<description><![CDATA[35 beds
+152583 Grayfield St, Detroit MI
+<a href="http://centraldetroitchristian.org/cdc-spins-the-entire-food-web-in-detroits-north-end/">http://centraldetroitchristian.org/cdc-spins-the-entire-food-web-in-detroits-north-end/</a>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.26789436269394,42.3990709815751,0 -83.26791943923287,42.39905215409046,0 -83.26798649401296,42.39909090220238,0 -83.26806924376729,42.39901314888109,0 -83.26800676008659,42.39897394600865,0 -83.26796242326255,42.39892990506571,0 -83.26790857498112,42.39889231254455,0 -83.26792544784307,42.39888037846571,0 -83.2678872827576,42.39885848205142,0 -83.26775302023924,42.39897939559161,0 -83.2677591835343,42.3989952543842,0 -83.26789436269394,42.3990709815751,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Brother Nature Produce</name>
+			<description><![CDATA[Open ground
+2913 Rosa Parks Blvd, Detroit MI<a href="http://facebook.com/pages/Brother-Nature-Produce">facebook.com/pages/Brother-Nature-Produce</a>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.07645539098809,42.33683986050347,0 -83.07619708567772,42.3369128682203,0 -83.07617682601791,42.33685483766438,0 -83.07598942769545,42.33684922231304,0 -83.07591851982691,42.33673316098929,0 -83.0757994967779,42.33677060021184,0 -83.07585774237276,42.33684173466167,0 -83.07584001553535,42.3368548383476,0 -83.07571086261565,42.33689414936948,0 -83.07556651501234,42.33695779560249,0 -83.07561209842086,42.33703267391198,0 -83.07558930663409,42.33705700927472,0 -83.07603247924399,42.3369746432625,0 -83.07643007713332,42.33782076345924,0 -83.07692896724792,42.33768410721779,0 -83.07645539098809,42.33683986050347,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Brother Nature Produce 2 E Greenhouses</name>
+			<description><![CDATA[2 eastmost greenhouses
+2913 Rosa Parks Blvd, Detroit MI
+<a href="http://facebook.com/pages/Brother-Nature-Produce">facebook.com/pages/Brother-Nature-Produce</a>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.07580207606691,42.33677378413973,0 -83.07567118808004,42.33682638727206,0 -83.0757118522793,42.33689495926467,0 -83.07585417722098,42.33685081015067,0 -83.07580207606691,42.33677378413973,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Brother Nature Produce W Greenhouse</name>
+			<description><![CDATA[Westmost greenhouse in garden
+2913 Rosa Parks Blvd, Detroit MI<a href="http://facebook.com/pages/Brother-Nature-Produce">facebook.com/pages/Brother-Nature-Produce</a>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.07637518906991,42.33686208076032,0 -83.0763459609736,42.33680947768168,0 -83.07617440858751,42.33685926355953,0 -83.07619728272478,42.33691186669067,0 -83.07637518906991,42.33686208076032,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Burnside Farm</name>
+			<description><![CDATA[Open ground
+3328 Burnside St, Detroit MI
+<a href="http://burnsidefarmdetroit.com">burnsidefarmdetroit.com</a>]]></description>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.06058118960782,42.4089716349665,0 -83.06031598995875,42.4090670293461,0 -83.06048258959837,42.40930969983972,0 -83.06072172327659,42.40920426363534,0 -83.06058118960782,42.4089716349665,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Cadillac Urban Gardens on Merritt</name>
+			<description><![CDATA[26 raised beds
+4650 Merritt St, Detroit MI
+<a href="http://facebook.com/CadillacUrbanGardensOnMerritt">facebook.com/CadillacUrbanGardensOnMerritt</a>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.10238313983734,42.32417071609297,0 -83.10121139383787,42.3246444926699,0 -83.10138546292167,42.32488209513608,0 -83.10255334430603,42.32441111710034,0 -83.10238313983734,42.32417071609297,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CDC Community Garden</name>
+			<description><![CDATA[25 raised beds
+765 Taylor St, Detroit MI
+<a href="http://centraldetroitchristian.org/cdc-spins-the-entire-food-web-in-detroits-north-end/">http://centraldetroitchristian.org/cdc-spins-the-entire-food-web-in-detroits-north-end/</a>]]></description>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.08676173479722,42.37962489078237,0 -83.08656444313992,42.37969703845494,0 -83.08673243430012,42.37993729018209,0 -83.08692777313938,42.37986802820005,0 -83.08676173479722,42.37962489078237,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CDC Farm and Fishery</name>
+			<description><![CDATA[Open ground
+8500 2nd Ave, Detroit MI
+<a href="http://facebook.com/cdcfarmfishery">facebook.com/cdcfarmfishery</a>]]></description>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.08219236218091,42.37675328613054,0 -83.08210823610159,42.37678710558775,0 -83.08214813658441,42.37684465638248,0 -83.08209339779657,42.37686773640182,0 -83.08215165521726,42.37696589296019,0 -83.08231430709681,42.37691800603184,0 -83.08219236218091,42.37675328613054,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>CDC Farm and Fishery Greenhouse</name>
+			<description><![CDATA[Greenhouse
+8500 2nd Ave, Detroit MI
+<a href="http://facebook.com/cdcfarmfishery">facebook.com/cdcfarmfishery</a>]]></description>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.08231344209258,42.37694645034176,0 -83.08206911121751,42.37703221309191,0 -83.08212450306961,42.37710508318254,0 -83.08236352260356,42.37701483604784,0 -83.08231344209258,42.37694645034176,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Colorado St Community Garden</name>
+			<description>Open ground
+12615 John R St, Detroit MI</description>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.08935815439038,42.39941578672307,0 -83.0892658119662,42.39945022676135,0 -83.0893208442629,42.3995335717926,0 -83.0893852042035,42.39950946374574,0 -83.08940106100542,42.39952530617666,0 -83.08943090907941,42.39951290773924,0 -83.08935815439038,42.39941578672307,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>D-Town Farm</name>
+			<description><![CDATA[Open Ground
+14027 Outer Dr W, Detroit MI
+<a href="http://dtownfarm.blogspot.com">dtownfarm.blogspot.com</a>]]></description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.26025980449997,42.36571146173966,0 -83.25871428674432,42.36571687165327,0 -83.25873237643033,42.36580002844801,0 -83.26025279786211,42.365798103941,0 -83.26025980449997,42.36571146173966,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>D-Town Farm E Greenhouse</name>
+			<description><![CDATA[Greenhouse
+14027 Outer Dr W, Detroit MI
+<a href="http://dtownfarm.blogspot.com">dtownfarm.blogspot.com</a>]]></description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.25874086587037,42.36600916782066,0 -83.25855151036664,42.3660097366208,0 -83.25855155084815,42.36606080671771,0 -83.25873747023464,42.3660633906471,0 -83.25874086587037,42.36600916782066,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>D-Town Farm NW Greenhouse</name>
+			<description><![CDATA[Greenhouse
+14027 Outer Dr W, Detroit MI
+<a href="http://dtownfarm.blogspot.com">dtownfarm.blogspot.com</a>]]></description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.26021817888532,42.36611842346497,0 -83.25985993640495,42.36611442107237,0 -83.25986474874161,42.36620026934491,0 -83.26023020644719,42.36619873442556,0 -83.26021817888532,42.36611842346497,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>D-Town Farm SW Greenhouse</name>
+			<description><![CDATA[Greenhouse
+14027 Outer Dr W, Detroit MI
+<a href="http://dtownfarm.blogspot.com">dtownfarm.blogspot.com</a>]]></description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.2602420247264,42.36588378614312,0 -83.25997072137544,42.36588860550073,0 -83.25997845137887,42.36594105284877,0 -83.26025097401229,42.36593746019589,0 -83.2602420247264,42.36588378614312,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Detroit Market Garden</name>
+			<description><![CDATA[Detroit Market Garden
+3091 Orleans St, Detroit MI
+<a href="http://cfsem.org/media/introducing-the-detroit-market-garden">cfsem.org/media/introducing-the-detroit-market-garden</a>]]></description>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.03927924501487,42.350564717509,0 -83.03880448388095,42.3507441425807,0 -83.03886568986518,42.35085105367675,0 -83.03885355891683,42.35086584562344,0 -83.03860740742486,42.35096361850361,0 -83.03858282728098,42.35107635811485,0 -83.03857188365197,42.3510841030643,0 -83.03889216996564,42.35156771930949,0 -83.03907045541644,42.35150497158739,0 -83.03915495570674,42.35162480995002,0 -83.03922251268969,42.35159957746122,0 -83.03982685571022,42.35138023695215,0 -83.03927924501487,42.350564717509,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Detroit Market Garden Central Greenhouse</name>
+			<description><![CDATA[Central greenhouse in complex of 4
+3091 Orleans St, Detroit MI
+<a href="https://cfsem.org/media/introducing-the-detroit-market-garden/">cfsem.org</a>]]></description>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.0395318784102,42.3513677817669,0 -83.03932966230178,42.3514391335311,0 -83.03938037853713,42.35152004193076,0 -83.03958457413226,42.3514466821262,0 -83.0395318784102,42.3513677817669,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Detroit Market Garden North Greenhouse</name>
+			<description><![CDATA[Northmost of 4 greenhouses
+3091 Orleans St, Detroit MI
+<a href="https://cfsem.org/media/introducing-the-detroit-market-garden/">cfsem.org</a>]]></description>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.03970017237295,42.35142631278134,0 -83.03922173871163,42.35159820506681,0 -83.03927037375806,42.35168078347346,0 -83.0397560748396,42.35150455309459,0 -83.03970017237295,42.35142631278134,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Detroit Market Garden SE Greenhouse</name>
+			<description><![CDATA[Southeast greenhouse in complex of 4
+3091 Orleans St, Detroit MI
+<a href="https://cfsem.org/media/introducing-the-detroit-market-garden/">cfsem.org</a>]]></description>
+			<styleUrl>#m_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.03922342678487,42.35124026733047,0 -83.03901891350742,42.3513149302452,0 -83.03906749669416,42.35139336983315,0 -83.03926837583909,42.35132062730346,0 -83.03922342678487,42.35124026733047,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Detroit Market Garden SW Greenhouse</name>
+			<description><![CDATA[Southwest greenhouse in complex of 4
+3091 Orleans St, Detroit MI
+<a href="https://cfsem.org/media/introducing-the-detroit-market-garden/">cfsem.org</a>]]></description>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.03966090228157,42.35120133546099,0 -83.03945568820402,42.35127551414613,0 -83.0395069111439,42.35135271812294,0 -83.03971191531312,42.35128161786844,0 -83.03966090228157,42.35120133546099,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>EarthWorks Urban Farm – Community Orchard</name>
+			<description><![CDATA[Open Orchard
+1100 Meldrum, Detroit MI
+<a href="http://cskdetroit.org">cskdetroit.org</a>]]></description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.01252378015806,42.35011089037582,0 -83.0123985839258,42.34992964116159,0 -83.01187206314634,42.35012287189655,0 -83.01197985090529,42.35030009877859,0 -83.01252378015806,42.35011089037582,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>EarthWorks Urban Farm – Community Orchard (South Side)</name>
+			<description><![CDATA[Open Orchard
+1100 Meldrum, Detroit MI
+<a href="http://cskdetroit.org">cskdetroit.org</a>]]></description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.01259991428626,42.34989311378335,0 -83.0128427463591,42.34980444751082,0 -83.01274418952178,42.34966412577737,0 -83.01251248051386,42.34975359871439,0 -83.01259991428626,42.34989311378335,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>EarthWorks Urban Farm – Gleaners Community Food Bank (#9)</name>
+			<description><![CDATA[Open Ground
+1100 Meldrum, Detroit MI
+<a href="http://cskdetroit.org">cskdetroit.org</a>]]></description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.01497286557355,42.35403758927569,0 -83.01471241209511,42.35366336396213,0 -83.01441008109083,42.35377358760055,0 -83.01466340970659,42.35414641246241,0 -83.01497286557355,42.35403758927569,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>EarthWorks Urban Farm – Greenhouse (#4)</name>
+			<description><![CDATA[Greenhouse
+1100 Meldrum, Detroit MI
+<a href="http://cskdetroit.org">cskdetroit.org</a>]]></description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.01255437874887,42.35019449790454,0 -83.01251118641901,42.35011732883434,0 -83.01218564582484,42.35023874463942,0 -83.0122224149999,42.3503070865716,0 -83.01255437874887,42.35019449790454,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Feedom-Freedom Growers</name>
+			<description>Open ground
+866 Manistique St, Detroit MI</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-82.94024790287816,42.37288647571643,0 -82.94028605515109,42.37304589564489,0 -82.94031456554997,42.37307822052134,0 -82.94017057633263,42.3731266088808,0 -82.94015047103439,42.3730925511239,0 -82.94028402312939,42.37304589564569,0 -82.94024689626581,42.37288720881728,0 -82.94022879327409,42.37289234267106,0 -82.94022677707442,42.372893810191,0 -82.9402106931397,42.37289454406334,0 -82.94018339710314,42.3729158602419,0 -82.93997230571324,42.37299210151144,0 -82.93999995531001,42.37302567424668,0 -82.93995886429089,42.37304739551027,0 -82.93997669052297,42.37311448034541,0 -82.94006259116522,42.37316998600054,0 -82.94015398943211,42.37315168951552,0 -82.9402078533615,42.37322131568543,0 -82.9404190650137,42.37314560106473,0 -82.94024790287816,42.37288647571643,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Feedom-Freedom Growers Greenhouse</name>
+			<description><![CDATA[Greenhouse
+866 Manistique St, Detroit MI
+<a href="http://facebook.com/FeedomFreedom">facebook.com/FeedomFreedom</a>]]></description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-82.94028533246163,42.37304479999015,0 -82.94014957209524,42.3730924811661,0 -82.94016848868657,42.37312700952181,0 -82.94031092660501,42.37308014974599,0 -82.94028533246163,42.37304479999015,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Fisheye Farms</name>
+			<description><![CDATA[Farm newer than Google Earth imagery so no area available
+1815 Van Dyke, Detroit MI
+<a href="http://tbcs-solutions.com/fisheye">tbcs-solutions.com/fisheye</a>]]></description>
+			<LookAt>
+				<longitude>-82.99949558451799</longitude>
+				<latitude>42.3577005139968</latitude>
+				<altitude>0</altitude>
+				<heading>-19.51588015996278</heading>
+				<tilt>20.19164060957455</tilt>
+				<range>75.67009838876635</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-82.99969444444444,42.35777777777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Food Field</name>
+			<description><![CDATA[Open ground
+1631 Merritt St, Detroit MI
+<a href="http://foodfielddetroit.com">foodfielddetroit.com</a>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.10392230760503,42.38562545585488,0 -83.10371511145696,42.38538947476947,0 -83.1034588887272,42.38541517703401,0 -83.1033497566509,42.38539298101052,0 -83.10327858341648,42.38532872854427,0 -83.10256052392695,42.38559858883847,0 -83.10266016494354,42.38585443200196,0 -83.10283572582291,42.38604719086242,0 -83.10392230760503,42.38562545585488,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Georgia Street Community Garden</name>
+			<description><![CDATA[42 raised beds
+8902 Vinton, Detroit MI
+<a href="http://georgiastreetcc.com">georgiastreetcc.com</a>]]></description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.00942749269167,42.39499908420507,0 -83.00945168454983,42.39501228710277,0 -83.00945998442222,42.39499798101936,0 -83.00946339146888,42.39498142581517,0 -83.00942113964592,42.39487240040932,0 -83.00935618107626,42.39488230087564,0 -83.00934967577891,42.39490785075746,0 -83.00922198878732,42.3949167068346,0 -83.00918173607417,42.39489211764028,0 -83.00914839655698,42.39490567980284,0 -83.00918113949179,42.39503604192534,0 -83.00942749269167,42.39499908420507,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Hope Takes Root Garden</name>
+			<description><![CDATA[Open ground
+2828 Wabash St, Detroit MI
+<a href="https://www.opengreenmap.org/greenmap/detroit/hope-takes-root-9508">opengreenmap.org/greenmap/detroit/hope-takes-root-9508</a>]]></description>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.07760160260344,42.33523419424105,0 -83.07752299556955,42.33515438393208,0 -83.07736294070443,42.33520409047809,0 -83.0774273415,42.33529860278321,0 -83.07760160260344,42.33523419424105,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Lafayette Greens</name>
+			<description>35 raised beds
+132 W Lafayette, Detroit MI</description>
+			<styleUrl>#m_ylw-pushpin8</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.04960171097824,42.33138502003371,0 -83.0495538873094,42.33131947208716,0 -83.04920011243669,42.33131791820858,0 -83.04920083441935,42.3315082376986,0 -83.04960511504652,42.33150934813647,0 -83.04960171097824,42.33138502003371,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Lamphere Community Garden</name>
+			<description><![CDATA[Open ground
+14910 Lamphere St, Detroit MI
+<a href="http://neighborsbuildingbrightmoor.org/brightmoor-life/programs">neighborsbuildingbrightmoor.org</a>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.26130980361153,42.39683907155016,0 -83.26124309081995,42.39683907369979,0 -83.26124716214396,42.39688888596242,0 -83.26131889777891,42.3968862078958,0 -83.26131343138367,42.39683818451112,0 -83.26145983445015,42.39674706233943,0 -83.26113011986621,42.39675522241716,0 -83.2611329096753,42.39693271031853,0 -83.26145949288889,42.39692105238309,0 -83.26145949279498,42.39674730952032,0 -83.26130980361153,42.39683907155016,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Lamphere Community Garden Greenhouse</name>
+			<description><![CDATA[Greenhouse
+14910 Lamphere St, Detroit MI
+<a href="http://neighborsbuildingbrightmoor.org/brightmoor-life/programs">neighborsbuildingbrightmoor.org</a>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.26131464427677,42.3968381844716,0 -83.26124795042873,42.39683996055605,0 -83.26124957928882,42.3968871019614,0 -83.26131526025408,42.39688709984586,0 -83.26131464427677,42.3968381844716,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>North Cass Community Garden</name>
+			<description><![CDATA[34 Raised beds
+4177 2nd Ave, Detroit MI
+<a href="https://www.facebook.com/NorthCassCommunityGarden">facebook.com/NorthCassCommunityGarden</a>]]></description>
+			<styleUrl>#m_ylw-pushpin90</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.06598578490554,42.34913371849036,0 -83.06562788572971,42.34924649178211,0 -83.06584706364347,42.34963129053499,0 -83.06593214606157,42.34965862972571,0 -83.06622808466547,42.34956157546769,0 -83.06598578490554,42.34913371849036,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Northend Community Garden 4 Greenhouses</name>
+			<description><![CDATA[4 Greenhouses
+7432 Brush St, Detroit MI
+<a href="http://miufi.org">miufi.org</a>]]></description>
+			<styleUrl>#m_ylw-pushpin100</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.06990323813159,42.3731871357973,0 -83.06995267119915,42.37317196394184,0 -83.06989992299775,42.37309284560385,0 -83.06984583932683,42.37311091038463,0 -83.06983827742035,42.37309843512885,0 -83.06979427445906,42.37311569895945,0 -83.06988846022685,42.37324936544538,0 -83.06992957169157,42.37323165088357,0 -83.06990323813159,42.3731871357973,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Northend Community Garden Beds</name>
+			<description><![CDATA[11 Raised boxes at SE corner of Brush & Custer
+7432 Brush St, Detroit MI
+<a href="http://miufi.org">miufi.org</a>]]></description>
+			<styleUrl>#m_ylw-pushpin11</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.06953455286353,42.37343342010487,0 -83.0695144466782,42.373438606487,0 -83.06959362051252,42.3735624344874,0 -83.06941108686064,42.37362722948227,0 -83.0694234078475,42.37364254258777,0 -83.06962348248176,42.3735674848405,0 -83.06953455286353,42.37343342010487,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Northend Community Garden East</name>
+			<description><![CDATA[Open ground off Custer St, east of Brush St
+7432 Brush St, Detroit MI<a href="http://miufi.org">miufi.org</a>]]></description>
+			<styleUrl>#m_ylw-pushpin12</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.06936049039761,42.37366200263902,0 -83.0692407145808,42.37344017002131,0 -83.06918669618541,42.37348436600588,0 -83.06913075708006,42.37350975504267,0 -83.06905150106965,42.37354056460361,0 -83.06899079994228,42.37354908918428,0 -83.06893581452647,42.3735565572095,0 -83.06907496767904,42.37376584011351,0 -83.06936049039761,42.37366200263902,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Northend Community Garden West</name>
+			<description><![CDATA[West side of Brush St. open ground 
+7432 Brush St, Detroit MI
+<a href="http://miufi.org">miufi.org</a>]]></description>
+			<styleUrl>#m_ylw-pushpin14</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.07039791917461,42.37302824322737,0 -83.070032614887,42.3731525497938,0 -83.06995523356285,42.3730541711132,0 -83.06983646450742,42.37309604936875,0 -83.069848161658,42.37311067324664,0 -83.06990034811186,42.37309272543148,0 -83.06994983628979,42.37316916841681,0 -83.06990754727666,42.37318578675453,0 -83.06992824247313,42.37322965840271,0 -83.0698868532116,42.37324893562496,0 -83.06979417550848,42.37311466183724,0 -83.06958812836986,42.37319442947135,0 -83.06979777784817,42.3735015313089,0 -83.07053018928492,42.37323297687483,0 -83.07039791917461,42.37302824322737,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Northend Community Garden West Greenhouse</name>
+			<description><![CDATA[1 building - Greenhouse
+7432 Brush St, Detroit MI
+<a href="http://miufi.org">miufi.org</a>]]></description>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.07018633719559,42.3730297527928,0 -83.07010376451829,42.37305879424675,0 -83.07013352165772,42.37310036644475,0 -83.07021395840779,42.37307013023056,0 -83.07018633719559,42.3730297527928,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Oakland Ave Gardens</name>
+			<description><![CDATA[Open ground
+9354 Oakland Ave, Detroit MI
+<a href="http://northend-cdc.org/sample-page">northend-cdc.org/sample-page</a>]]></description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.0732400426247,42.3874447223512,0 -83.07340475982488,42.38738047464531,0 -83.07331037135006,42.38726291467211,0 -83.07315675880113,42.38730665763731,0 -83.0732400426247,42.3874447223512,0 -83.07298833830147,42.38767984128275,0 -83.07283472421369,42.38771948293999,0 -83.07290690347766,42.38782610726439,0 -83.0730605176653,42.38778509848688,0 -83.07298833830147,42.38767984128275,0 -83.0732400426247,42.3874447223512,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Oakland Ave. Gardens Greenhouse</name>
+			<description><![CDATA[Greenhouse
+9354 Oakland Ave, Detroit MI
+<a href="http://northend-cdc.org/sample-page">northend-cdc.org/sample-page</a>]]></description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.07329556490565,42.38790539249935,0 -83.07324374352443,42.38783157588965,0 -83.07301239683497,42.38792179582065,0 -83.07306791958426,42.3879956125855,0 -83.07329556490565,42.38790539249935,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Penrose Art House &amp; Art Garden</name>
+			<description><![CDATA[Open land
+19524 Charleston St, Detroit MI
+<a href="http://facebook.com/pages/Penrose-Art-House-Art-Garden">facebook.com/pages/Penrose-Art-House-Art-Garden</a>]]></description>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.1069093360027,42.43676401488155,0 -83.10691051582869,42.436612883062,0 -83.10728464768117,42.43660276650846,0 -83.10726501889853,42.43609837132423,0 -83.10691251566205,42.43611147314358,0 -83.10690745693417,42.43687986677634,0 -83.10710311731729,42.43695491053573,0 -83.10729817036113,42.4369672616101,0 -83.10728358588203,42.43676252602264,0 -83.1069093360027,42.43676401488155,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Pingree Farms - north sites</name>
+			<description><![CDATA[open ground
+580 E Brentwood St, Detroit MI
+<a href="http://pingreefarms.com">pingreefarms.com</a>]]></description>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.09631932057943,42.42889557878352,0 -83.0959452280553,42.42889071563617,0 -83.09591887234107,42.4292126125775,0 -83.09633023747199,42.42919873012862,0 -83.09633486670028,42.42932268781506,0 -83.09506020029339,42.42937031952314,0 -83.09508790538656,42.42965312354895,0 -83.096344348564,42.42959578877153,0 -83.09634746943777,42.42968677845139,0 -83.09509831917856,42.42971485272519,0 -83.09514326734623,42.43003355331606,0 -83.09635828040842,42.4299873236669,0 -83.09638051083738,42.43059479657453,0 -83.09598964417005,42.43060554464763,0 -83.09598263300011,42.43079786013237,0 -83.09638695829815,42.43078010578883,0 -83.09640547131706,42.43126744947576,0 -83.09531798208656,42.43129908560337,0 -83.09536292509894,42.4316205031791,0 -83.09641638060617,42.4315761107693,0 -83.09642065989776,42.43171158375109,0 -83.09538046245322,42.43174928154352,0 -83.09542324665057,42.43206255222272,0 -83.0954505573456,42.43209096070971,0 -83.09549564904306,42.43209906786188,0 -83.09643381319462,42.43206372454339,0 -83.09631932057943,42.42889557878352,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Pingree Farms - Robinwood &amp; Chrysler Service site</name>
+			<description><![CDATA[Open ground
+752 E Robinwood St, Detroit MI
+<a href="http://pingreefarms.com">pingreefarms.com</a>]]></description>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.09516026122618,42.43016156858466,0 -83.09520150897933,42.4304888589954,0 -83.09541084678861,42.43048124767655,0 -83.09544487664228,42.4301531962067,0 -83.09516026122618,42.43016156858466,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Pingree Farms - South sites</name>
+			<description><![CDATA[Open ground
+18400 Chrysler Service Dr, Detroit MI
+<a href="http://pingreefarms.com">pingreefarms.com</a>]]></description>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.09494590023103,42.42808007138783,0 -83.09544504555635,42.42807713656078,0 -83.09545300004348,42.42791493880606,0 -83.09493993582338,42.42791273591711,0 -83.09493422944119,42.42778300889078,0 -83.09622105699333,42.42773021700437,0 -83.09621006832526,42.42744947389809,0 -83.09492133036709,42.42746980824532,0 -83.09491966285042,42.4274133808332,0 -83.09569207818062,42.42738530651246,0 -83.0956827498607,42.42715742134068,0 -83.09490751877576,42.42719115746255,0 -83.09490617113667,42.42705892305007,0 -83.09594328805076,42.42702026641656,0 -83.0959408169054,42.42674947240479,0 -83.09489432422961,42.4267859196038,0 -83.09494590023103,42.42808007138783,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Pingree Farms Greenhouse</name>
+			<description><![CDATA[Greenhouse
+580 E Brentwood, Detroit MI
+<a href="http://pingreefarms.com">pingreefarms.com</a>]]></description>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.09626813189989,42.43053813395593,0 -83.09590996468153,42.4305500792215,0 -83.09591238093661,42.43060522635762,0 -83.09627498104841,42.43059769128061,0 -83.09626813189989,42.43053813395593,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Plum St Garden</name>
+			<description><![CDATA[Open land excluding greenhouse 
+2202 3rd St, Detroit MI 
+<a href="http://detroitagriculture.net/the-farm/">detroitagriculture.net/the-farm/</a>]]></description>
+			<styleUrl>#m_ylw-pushpin16</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.05963795113074,42.33594793255519,0 -83.05920419381404,42.33596692126785,0 -83.05900392029,42.33602576281994,0 -83.05885675253128,42.33578285620363,0 -83.05907734987409,42.33571589381395,0 -83.05920527995959,42.33596683789814,0 -83.05963657331967,42.33594800545883,0 -83.05965348172158,42.33591881290576,0 -83.0593452976177,42.33535058002788,0 -83.0593094212317,42.33533150275974,0 -83.05823347838877,42.33567562713583,0 -83.05815916515351,42.33592505137595,0 -83.05889375499145,42.33622083394234,0 -83.05891862331077,42.33622518369047,0 -83.05963795113074,42.33594793255519,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Plum St Garden Greenhouses</name>
+			<description><![CDATA[2 Greenhouses
+2202 3rd St, Detroit MI
+<a href="http://detroitagriculture.net/the-farm/">detroitagriculture.net/the-farm/</a>]]></description>
+			<styleUrl>#m_ylw-pushpin15</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.05907873916291,42.33571613093972,0 -83.0588597860494,42.33578145139065,0 -83.05901210559709,42.3360234887727,0 -83.05920784010635,42.33596610221648,0 -83.05907873916291,42.33571613093972,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Rising Pheasant Farms</name>
+			<description><![CDATA[Open ground
+3525 Frederick St, Detroit MI
+<a href="https://www.facebook.com/Rising-Pheasant-Farms">facebook.com/Rising-Pheasant-Farms</a>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.03259793439992,42.37108613805015,0 -83.03229026546353,42.37119741474987,0 -83.03242710867127,42.37139418568084,0 -83.03273294146658,42.37129105078446,0 -83.03259793439992,42.37108613805015,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Rising Pheasant Farms Greenhouse</name>
+			<description><![CDATA[Greenhouse
+3525 Frederick St, Detroit MI
+<a href="https://www.facebook.com/Rising-Pheasant-Farms">facebook.com/Rising-Pheasant-Farms</a>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.03283212981052,42.37112752749814,0 -83.03275130947328,42.37115534692763,0 -83.03278345408066,42.37120148618566,0 -83.03286151924424,42.37117502378963,0 -83.03283212981052,42.37112752749814,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Romanowski Park Garden</name>
+			<description><![CDATA[Open ground
+4302 Trenton St, Detroit MI
+<a href="https://attra.ncat.org/attra-pub/internships/farmdetails.php?FarmName=&City=&State=MI&Keyword=&allDate=0&page=5&FarmID=1003">attra.ncat.org</a>]]></description>
+			<styleUrl>#m_ylw-pushpin17</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.14305600182948,42.32650933711603,0 -83.14268874414171,42.32670834399542,0 -83.1427305591494,42.32675807704717,0 -83.1427570923712,42.32684327822859,0 -83.14273690587804,42.32703228447406,0 -83.14274449412383,42.3271658716326,0 -83.1430434823413,42.32698907212572,0 -83.14315677652341,42.32700240363375,0 -83.14342207569101,42.32682038459036,0 -83.14305600182948,42.32650933711603,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Romanowski Park Orchard</name>
+			<description><![CDATA[Fruit/maple tree Orchard
+4302 Trenton St, Detroit MI
+<a href="https://attra.ncat.org/attra-pub/internships/farmdetails.php?FarmName=&City=&State=MI&Keyword=&allDate=0&page=5&FarmID=1003">attra.ncat.org</a>]]></description>
+			<styleUrl>#m_ylw-pushpin18</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.14239790829474,42.32730109091801,0 -83.14249654252218,42.32726615112347,0 -83.14258045744413,42.32720559121839,0 -83.14265672590578,42.32713759180773,0 -83.14269828660905,42.32704797099005,0 -83.14271494113363,42.32697389363047,0 -83.14270531560206,42.32691598171941,0 -83.14269112956194,42.3268005396994,0 -83.14266297452555,42.32675262764756,0 -83.14265117778626,42.32673534253017,0 -83.1425779986384,42.32665161572027,0 -83.1425533310054,42.32661619195326,0 -83.14252272179353,42.32657924773385,0 -83.14247844667632,42.32655037545157,0 -83.14244080292069,42.32653009422908,0 -83.14243478645953,42.32652844330957,0 -83.1424289484857,42.32652567197783,0 -83.14242275595501,42.32652514213299,0 -83.14241537244608,42.32652223920403,0 -83.14240781188425,42.32652045692733,0 -83.14240316842238,42.32652005962277,0 -83.14239578902841,42.32651715792318,0 -83.14238977880677,42.32651550875179,0 -83.14238222198628,42.32651372740131,0 -83.14237484738081,42.32651082732588,0 -83.14236884017257,42.32650917901881,0 -83.14236438076316,42.32650766329697,0 -83.14235237015727,42.32650436780025,0 -83.14234327270594,42.32650245568914,0 -83.14233708598185,42.32650192633521,0 -83.14233108331378,42.32650027917325,0 -83.1423235349823,42.32649849991092,0 -83.14232062676163,42.32649711782204,0 -83.14231308013217,42.32649533900784,0 -83.1423026280991,42.32649217895117,0 -83.1422906330005,42.32648888746963,0 -83.14227999941829,42.32648684528019,0 -83.14226819787932,42.32648243941152,0 -83.14226047068166,42.3264817782436,0 -83.14224984196332,42.32647973707248,0 -83.1422436606117,42.32647920817171,0 -83.14222994325985,42.32647690287378,0 -83.14222221709586,42.32647624179102,0 -83.14221140048016,42.32647531627526,0 -83.14219768620355,42.32647301138682,0 -83.14219169887466,42.32647136780066,0 -83.14218397376141,42.32647070680451,0 -83.14217180805159,42.32646853471717,0 -83.14216408347228,42.32646787376501,0 -83.14215790377357,42.3264673449998,0 -83.14215172407474,42.32646681623415,0 -83.14214245454387,42.3264660230864,0 -83.1421300951807,42.32646496555556,0 -83.14212082564922,42.32646417240556,0 -83.14211310103354,42.32646351144598,0 -83.1421038315015,42.32646271829421,0 -83.14209456196912,42.32646192514147,0 -83.14208529243641,42.32646113198775,0 -83.14207756781968,42.32646047102509,0 -83.14206829828632,42.32645967786959,0 -83.14206057366903,42.32645901690544,0 -83.14205264657963,42.32645946974849,0 -83.14204801148485,42.32645907314155,0 -83.14204028635007,42.32645841213144,0 -83.14203256125016,42.32645775112366,0 -83.14202617687874,42.32645833612053,0 -83.14201824642598,42.32645878897569,0 -83.14200876958128,42.32645910966224,0 -83.14199949756387,42.32645831628742,0 -83.14199177087646,42.32645765514048,0 -83.14198074619065,42.32645784353202,0 -83.14197456441941,42.32645731457724,0 -83.14196065547722,42.32645612443115,0 -83.1419542645824,42.32645670947083,0 -83.14194787283192,42.32645729458839,0 -83.1419430260117,42.32645801201868,0 -83.14193817850108,42.32645872957497,0 -83.14192560058271,42.32645878581204,0 -83.14192053979161,42.3264606182201,0 -83.14191259695181,42.3264610715222,0 -83.14190577445808,42.32646388750118,0 -83.14189958813027,42.32646335815185,0 -83.14189297503992,42.32646505955265,0 -83.14188614628807,42.32646787723822,0 -83.14187798191723,42.32646944741736,0 -83.14187114782104,42.32647226695794,0 -83.14186276312552,42.32647495518521,0 -83.14185613937536,42.32647665959001,0 -83.14184796543532,42.32647823199042,0 -83.14184288646119,42.32648006983,0 -83.1418380234912,42.32648079016202,0 -83.14183117539447,42.3264836144394,0 -83.14182299378795,42.32648518862028,0 -83.14181614044509,42.32648801470163,0 -83.14180950369192,42.32648972259804,0 -83.14180419532545,42.32649268320379,0 -83.1417988848207,42.3264956450014,0 -83.14179202148826,42.32649847526748,0 -83.14178537666288,42.3265001858342,0 -83.14178005951207,42.32650315073324,0 -83.1417718594231,42.32650472974824,0 -83.14176653776755,42.32650769652457,0 -83.14175833317597,42.32650927668573,0 -83.14175611130266,42.32651251104002,0 -83.14239790829474,42.32730109091801,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Singing Tree Garden</name>
+			<description><![CDATA[Open ground
+
+<a href="http://singingtreedetroit.net">singingtreedetroit.net</a>]]></description>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-83.10044914761227,42.42101844466344,0 -83.10046023095227,42.42118812171384,0 -83.10070733785111,42.42121701548726,0 -83.1008052332907,42.42123059229373,0 -83.10087481701747,42.42123741976695,0 -83.1009230685181,42.42123551290336,0 -83.10105950050502,42.42123754309804,0 -83.1010794156073,42.42111066184656,0 -83.10107051115499,42.42105756883954,0 -83.10104785677943,42.42102603333725,0 -83.1010307026426,42.42100196583365,0 -83.10044914761227,42.42101844466344,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

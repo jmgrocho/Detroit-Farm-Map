@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Center for Shared Solutions and Technology Partnerships</origin>
+<pubdate>20140601</pubdate>
+<title>Michigan Geographic Framework: Wayne County</title>
+<edition>Version 14a</edition>
+<geoform>vector digital data</geoform>
+<pubinfo>
+<pubplace>Lansing, MI</pubplace>
+<publish>Center for Shared Solutions and Technology Partnerships</publish>
+</pubinfo>
+</citeinfo>
+</citation>
+<descript>
+<abstract>
+This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+Specifically, this Michigan base map will consist of an Arc Info coverage which includes features and attributes based on the current TIGER/Line Files, base map features based on both the Michigan Department of Natural Resources (MDNR) Michigan Resource Information System (MIRIS) Files and an enhanced linear referencing system built from the Michigan Department of Transportation (MDOT) Michigan Accident Location Index (MALI).  The Geographic Framework will serve as a common and standardized infrastructure on which all GIS users of 1:24,000 scale map data can build their applications. At the heart of the Geographic Framework will be the ability to administer programs that use location-based information and need to relate one database to another geographically.
+Version 14a replaces Version 13a as the current version of the Michigan Geographic Framework (MGF). A primary driving force in the creation of Framework Version 14a was the continued reconciliation of the road network and city/village boundaries with current information.
+Changes incorporated in version 14a of the MGF are described in the following documents:
+MGF_V14a_Updates, MGF_V14a_Trunkline_Updates
+These and other documents related to MGF can be found at: &lt;http://www.michigan.gov/cgi/0,1607,7-158-12759_14194---,00.html&gt;
+</abstract>
+<purpose>
+The Michigan Geographic Framework is being created to provide:
+significant cost-savings due to less duplication of effort across agency lines
+low-cost geographic database for users of GIS
+a common-standardized product for any area in Michigan
+a focal-point for establishing partnerships between federal, state, regional, county and local agencies
+a product that will be a rallying point for creating an ongoing update and maintenance program for transportation and other features like hydrography and municipal boundaries
+improved communication between agencies involved in geographic information management
+the cross integration of demographic and natural resource information, and other data sets
+the ability to look at what-if scenarios that were not possible before
+</purpose>
+<supplinf>The framework geography is maintained in the Michigan Georef projection system which is a form of an Oblique Mercator projection.  All the data items described in the data dictionary may not be filled.  The fields are present to allow for future enhancement.</supplinf>
+</descript>
+<timeperd>
+<timeinfo>
+<rngdates>
+<begdate>1997</begdate>
+<enddate>20140601</enddate>
+</rngdates>
+</timeinfo>
+<current>
+The geographic structure and attributes of this Wayne County framework data set was created based on the 1994 U.S. Census Bureau based TIGER line files as well as the Michigan DNR created MIRIS file (a computerized map digitized from USGS topo maps in the 1970s).  The attributes originated from the 1994 TIGER files.  However, several more recent products were employed as secondary sources to resolve topological, positional and attributional discrepancies.  The following sources were available during the creation of the MGF:
+
+Michigan Dept. of Transportation ACT51 maps through 1999  ( ACT51 maps are annually updated maps created by the MDOT for the purpose of allocating federal highway funds.)
+
+The USPS Michigan ZIP+4 State Directory Copyright 2000
+
+Qualified Voter File project (QVF) maps begun in 1997.  (The QVF is a Department of State (DOS) program that manages Michigan&apos;s registered voters.  The program requires all county, city, township, and village clerks to provide updated and added street, voting precinct, school district and jurisdiction information directly on maps provided by the Center for Shared Solutions and Technology Partnerships.)
+
+This source information listed was compared with 1992 and 1997 Michigan State University created aerial photographs as well as 1992-2000 USGS Digital Ortho Quad Photos to resolve conflicts between the framework geography and the Michigan Department of Transportation (MDOT) Michigan Accident Location Index (MALI).
+
+The above source information was used to create Versions 1a and 1b. Framework Version 2a, was improved by using the United States Geological Survey (USGS) 1:12,000 Digital Ortho Quarter Quad (DOQQ) aerial photography to reposition all the named roads in each county.  The DOQQs were produced in 1992-1999.
+
+Framework Version 3b was reconciled to the 2001 Act51 maps.
+
+Changes incorporated in version 3b of the MGF are described in the following document:
+
+MGF_v3b_Updates
+
+Framework Version 4, has been reconciled to the 2002 Act51 maps.
+
+Changes incorporated in version 4 of the MGF are described in the following document:
+
+MGF_v4b_Updates
+
+Changes incorporated in version 5a of the MGF are described in the following document:
+
+MGF_v5a_Updates
+
+Changes incorporated in version 6b of the MGF are described in the following document:
+
+MGF_v6b_Updates
+
+Changes incorporated in version 7b of the MGF are described in the following document:
+
+MGF_v7b_Updates
+
+Changes incorporated in version 8a of the MGF are described in the following document:
+
+MGF_v8a_Updates
+
+Changes incorporated in version 9b of the MGF are described in the following document:
+
+MGF_v9b_Updates
+
+Changes incorporated in version 10a of the MGF are described in the following document:
+
+MGF_v10a_Updates
+
+Changes incorporated in version 11a of the MGF are described in the following document:
+
+MGF_v11a_Updates
+
+Changes incorporated in version 12b of the MGF are described in the following document:
+
+MGF_v12b_Updates
+
+Changes incorporated in version 13a of the MGF are described in the following document:
+
+MGF_v13a_Updates
+
+Changes incorporated in version 14a of the MGF are described in the following document:
+
+MGF_v14a_Updates
+
+These and other documents related to MGF can be found at:
+http://www.michigan.gov/cgi/0,1607,7-158-12759_14194---,00.html
+</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>As needed</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-83.567572</westbc>
+<eastbc>-82.869818</eastbc>
+<northbc>42.472224</northbc>
+<southbc>42.020782</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>Rivers</themekey>
+<themekey>Streets</themekey>
+<themekey>Roads</themekey>
+<themekey>Framework</themekey>
+<themekey>Wayne County</themekey>
+<themekey>Hydrography</themekey>
+<themekey>Streams</themekey>
+<themekey>Lakes</themekey>
+<themekey>Political boundaries</themekey>
+<themekey>School District boundaries</themekey>
+<themekey>Railroads</themekey>
+<themekey>Political jurisdiction boundaries</themekey>
+<themekey>Census area tabulation boundaries</themekey>
+<themekey>Legislative district boundaries</themekey>
+</theme>
+<place>
+<placekt>None</placekt>
+<placekey>County</placekey>
+<placekey>Wayne</placekey>
+</place>
+</keywords>
+<accconst>None</accconst>
+<useconst>None</useconst>
+<ptcontac>
+<cntinfo>
+<cntperp>
+<cntper>Josh Ross</cntper>
+<cntorg>Center for Shared Solutions and Technology Partnerships</cntorg>
+</cntperp>
+<cntpos>Geographic Specialist</cntpos>
+<cntaddr>
+<addrtype>Mailing and physical address of the distribution contact person</addrtype>
+<address>111 S Capitol Ave.,   10th Floor</address>
+<city>Lansing</city>
+<state>MI</state>
+<postal>48933</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>517-373-7910</cntvoice>
+<cntfax>517-373-2939</cntfax>
+<cntemail>Rossj@michigan.gov</cntemail>
+</cntinfo>
+</ptcontac>
+<native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+</idinfo>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>Complete chain</sdtstype>
+<ptvctcnt>104142</ptvctcnt>
+</sdtsterm>
+<sdtsterm>
+<sdtstype>Node, planar graph</sdtstype>
+<ptvctcnt>66557</ptvctcnt>
+</sdtsterm>
+<sdtsterm>
+<sdtstype>Point</sdtstype>
+<ptvctcnt>15</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<planar>
+<mapproj>
+<mapprojn>Oblique Mercator</mapprojn>
+<obqmerc>
+<sfctrlin>0.999600</sfctrlin>
+<obqlazim>
+<azimangl>337.255560</azimangl>
+<azimptl>-86.000000</azimptl>
+</obqlazim>
+<latprjo>45.309167</latprjo>
+<feast>2546731.496000</feast>
+<fnorth>-4354009.816000</fnorth>
+</obqmerc>
+</mapproj>
+<planci>
+<plance>coordinate pair</plance>
+<coordrep>
+<absres>0.000509</absres>
+<ordres>0.000509</ordres>
+</coordrep>
+<plandu>meters</plandu>
+</planci>
+</planar>
+<geodetic>
+<horizdn>North American Datum of 1983</horizdn>
+<ellips>Geodetic Reference System 80</ellips>
+<semiaxis>6378137.000000</semiaxis>
+<denflat>298.257222</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<overview>
+<eaover>The entity and attribute information is contained in several PDF documents.  The primary document is MCGI Framework DD V14a.pdf.  This document contains the data dictionary for the Michigan Geographic Framework data set.  The document contains field names, field type and size and appropriate field descriptions and comments.  The other PDF documents relevant to the data set are appendices referred to in the data dictionary descriptions.</eaover>
+<eadetcit>
+The PDF documents containing entity and attribute information are:
+MCGI Framework DD V14a.pdf, Appendix A.pdf, Appendix B brblbs.pdf, Appendix C Connector.pdf and Appendix D FCC.pdf.  These PDF files are located at http://www.michigan.gov/cgi/0,1607,7-158-12759_14194---,00.html
+</eadetcit>
+</overview>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntperp>
+<cntper>Josh Ross</cntper>
+<cntorg>Center for Shared Solutions and Technology Partnerships</cntorg>
+</cntperp>
+<cntpos>Geographic Specialist</cntpos>
+<cntaddr>
+<addrtype>Mailing and physical address of the distribution contact person</addrtype>
+<address>111 S Capitol Ave.,   10th Floor</address>
+<city>Lansing</city>
+<state>MI</state>
+<postal>48933</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>517-373-7910</cntvoice>
+<cntfax>517-373-2939</cntfax>
+<cntemail>Rossj@michigan.gov</cntemail>
+</cntinfo>
+</distrib>
+<resdesc>Wayne County Framework</resdesc>
+<distliab>No warranty, expressed or implied is made and no liability is assumed by the State of Michigan in general or the Center for Shared Solutions and Technology Partnerships in specific as to the accuracy or usability of this data.</distliab>
+</distinfo>
+<metainfo>
+<metd>20140601</metd>
+<metc>
+<cntinfo>
+<cntperp>
+<cntper>Josh Ross</cntper>
+<cntorg>Center for Shared Solutions and Technology Partnerships</cntorg>
+</cntperp>
+<cntpos>Geographic Specialist</cntpos>
+<cntaddr>
+<addrtype>Mailing and physical address of the distribution contact person</addrtype>
+<address>111 S Capitol Ave.,   10th Floor</address>
+<city>Lansing</city>
+<state>MI</state>
+<postal>48933</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>517-373-7910</cntvoice>
+<cntfax>517-373-2939</cntfax>
+<cntemail>Rossj@michigan.gov</cntemail>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>

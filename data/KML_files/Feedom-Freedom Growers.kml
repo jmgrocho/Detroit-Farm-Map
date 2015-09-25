@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Feedom-Freedom Growers.kml</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Feedom-Freedom Growers</name>
+		<description>Open ground
+866 Manistique St, Detroit MI
+</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-82.94024790287816,42.37288647571643,0 -82.94028605515109,42.37304589564489,0 -82.94031456554997,42.37307822052134,0 -82.94017057633263,42.3731266088808,0 -82.94015047103439,42.3730925511239,0 -82.94028402312939,42.37304589564569,0 -82.94024689626581,42.37288720881728,0 -82.94022879327409,42.37289234267106,0 -82.94022677707442,42.372893810191,0 -82.9402106931397,42.37289454406334,0 -82.94018339710314,42.3729158602419,0 -82.93997230571324,42.37299210151144,0 -82.93999995531001,42.37302567424668,0 -82.93995886429089,42.37304739551027,0 -82.93997669052297,42.37311448034541,0 -82.94006259116522,42.37316998600054,0 -82.94015398943211,42.37315168951552,0 -82.9402078533615,42.37322131568543,0 -82.9404190650137,42.37314560106473,0 -82.94024790287816,42.37288647571643,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

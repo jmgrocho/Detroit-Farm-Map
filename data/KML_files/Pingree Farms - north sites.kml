@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Pingree Farms - north sites.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Pingree Farms - north sites</name>
+		<description><![CDATA[open ground
+580 E Brentwood St, Detroit MI
+<a href="http://pingreefarms.com">pingreefarms.com</a>]]></description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-83.09631932057943,42.42889557878352,0 -83.0959452280553,42.42889071563617,0 -83.09591887234107,42.4292126125775,0 -83.09633023747199,42.42919873012862,0 -83.09633486670028,42.42932268781506,0 -83.09506020029339,42.42937031952314,0 -83.09508790538656,42.42965312354895,0 -83.096344348564,42.42959578877153,0 -83.09634746943777,42.42968677845139,0 -83.09509831917856,42.42971485272519,0 -83.09514326734623,42.43003355331606,0 -83.09635828040842,42.4299873236669,0 -83.09638051083738,42.43059479657453,0 -83.09598964417005,42.43060554464763,0 -83.09598263300011,42.43079786013237,0 -83.09638695829815,42.43078010578883,0 -83.09640547131706,42.43126744947576,0 -83.09531798208656,42.43129908560337,0 -83.09536292509894,42.4316205031791,0 -83.09641638060617,42.4315761107693,0 -83.09642065989776,42.43171158375109,0 -83.09538046245322,42.43174928154352,0 -83.09542324665057,42.43206255222272,0 -83.0954505573456,42.43209096070971,0 -83.09549564904306,42.43209906786188,0 -83.09643381319462,42.43206372454339,0 -83.09631932057943,42.42889557878352,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
